@@ -1,0 +1,63 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{ngerman}
+\usepackage[]{graphicx}
+\usepackage[]{color}
+\usepackage{multicol}
+\usepackage{geometry}
+\usepackage{eurosym}
+\usepackage{fancyhdr}
+\geometry{a4paper,left=2cm,right=2cm, top=3.5cm, bottom=4cm}
+\begin{document}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0pt}
+\fancyhf{
+\fancyhead[LE,RO]{\color[rgb]{0.8627,0,0.4039}\noindent\makebox[\linewidth]{\rule{\paperwidth}{36pt}}}}
+%\fancyhead[LE,RO]{\includegraphics[scale=0.5]{Vorlagen/logo-g.png} }
+\fancyfoot[LE,RO]{\color[rgb]{0.8627,0,0.4039}\noindent\makebox[\linewidth]{\rule{\paperwidth}{36pt}}}}
+\newcommand{\vcenteredinclude}[1]{\begingroup
+\setbox0=\hbox{\includegraphics[scale=0.5]{#1}}%
+\parbox{\wd0}{\box0}\endgroup}
+\vspace{0.5cm}\ \\
+	\textbf{\Huge
+	Freifunk - Rechtliche Einschätzung} \hfill\vcenteredinclude{Vorlagen/logo-gt.png}\\
+\vspace{0.5cm}\ \\
+
+Eckpunkte zur rechtlichen Situation rund um Freifunk (Münsterland) und der Störerhaftung. Freifunk trägt es bereits im Namen, das „freie Netz“. Die meisten Freifunker dürften aber übereinstimmen, dass es mehrere Merkmale sind, die solche freien Netze ausmachen:
+\begin{itemize}
+	\item Sie sind für alle zugänglich.
+	\item Es gibt keine Zensur.
+	\item Sie werden nicht kommerziell betrieben.
+	\item Sie gehören der Gemeinschaft.
+\end{itemize}
+
+Freifunk Netze setzen sich primär aus sogenannten Knoten zusammen. Dabei handelt es sich um einen marktüblichen WLAN-Router, der mit einer veränderten Programmierung („Freifunk Firmware“) in der Lage ist Verbindungen zu anderen Freifunk-Knoten aufzubauen und so ein verteiltes drahtloses Netzwerk zu schaffen.
+
+Stand 31 Juli 2015 umfasst die Freifunk Bewegung 156 lokale Communities mit 15.824 Zugangspunkten (http://www.freifunk-karte.de/). Dort wo das Netzwerk nicht dich genug ist werden Lücken durch die Verwendung der Internet-Verbindung des Knotenbetreibers geschlossen. Dazu bauen die Knoten sogenannten VPN Verbindungen (https://de.wikipedia.org/wiki/Virtual\_Private\_Network) zu Rechnern der Freifunker auf, die die Daten zwischen den Knoten weiterleiten und somit die Existenz eines lückenhaften Netzes ermöglichen. Diese Rechner werden im Falle Münster/Münsterland von der Warpzone e.V. betrieben.  Der Betrieb eines Freifunk Knotens in Netz Freifunk Münsterland unterliegt Nutzungsbedingungen (https://freifunk-muensterland.de/mitmachen/ nutzungsbedingungen/).
+
+Relevant für die rechtliche Betrachtung ist der Zugang zum öffentlichen Internet aus dem Freifunk Netz. Dieser Zugang erfolgt logisch nicht durch den Internet-Anschluss der Knotenbetreiber sondern über die Rechner der Freifunker. Dieser Zugang („Internet Gateway“) ist der primäre Dienst der von den Freifunkern erbracht wird. Freifunk  Münsterland (Warpzone e.V.) kooperiert beim Internet Zugang mit dem Freifunk-Rheinland e.V. („peering“)  über deren Rechner der Verkehr Stand Juli 2015 ins öffentlichen Internet geleitet wird.\bigskip\\
+
+\textbf{Einzelfragen:}
+
+\begin{enumerate}\item  „Störerhaftung“ (zivilrechtliche Schadensersatzansprüche, typischerweise wegen „File-Sharings“).
+Sowohl die Warpzone e.V. als auch Freifunk-Rheinland e.V. sind für den Dienst „Zugang Internet“ Dienstanbieter entsprechend §2 Telemediengesetz (TMG).  Als solche sind sie für die übertragenden Inhalte nicht verantwortlich (§7,§8 TMG, „Providerprivileg“). Da Freifunk als solches nicht kommerziell ist und keine Abrechnung erfolgt, speichert die Warpzone e.V. entsprechend dem BDSG Grundsatz der Datensparsamkeit (§3 BDSG) sowie den konkreten Vorschriften von §100 TKG im Regelbetrieb keine Verbindungsdaten. (Verstoß wird mit einem Bußgeld von 10.000€ geahndet, §149 Abs 1, Nr 17 TKG.) Im Falle einer „Abmahnung wegen File-Sharings werden durch den Rechteinhaber  häufig Dritte beauftragt diese festzustellen. Dazu werden die Internet (IP) Adressen von Anschlüssen festgehalten, die zu einem Zeitpunkt ein geschütztes Werk des Rechteinhabers via File-Sharing zum Download anboten. Mit Hilfe dieser IP Adressen kann durch öffentliche Register (https://www.ripe.net) der Anbieter, dem diese Adresse zugeordnet ist, ermittelt werden. Der entsprechende   Internet Service Provider wird dann (zur Zeit üblicherweise per Gerichtsbeschluss) aufgefordert  Auskunft über den Anschlussinhaber zu geben. Ist diese Auskunft erfolgt wird der Anschlussinhaber in der Regel kostenpflichtig abgemahnt, typischerweise verbunden mit der Forderung nach einer Unterlassungserklärung und einem mehr oder weniger angemessenen Schadenersatzforderung.
+
+Im Falle Freifunk Münsterland wird die Warpzone e.V bzw. der Freifunk Rheinland als Provider angesprochen. Diese sind dann nicht in der Lage eine Auskunft zum Nutzer oder zum Anschlussinhaber zu geben, da diese Daten nicht gespeichert werden. Daher verlaufen solche Ansinnen regelmäßig im Sande.
+
+\item Straftaten. Sollten über das Freifunk-Netz Straftaten begangen werden, ist die Warpzone e.V. ebenso erster Ansprechpartner für Strafverfolgungsbehören. Zum Beispiel können Strafverfolgungsbehörden mit einem entsprechenden Gerichtsbeschluss gezielte Überwachungsmaßnahmen, z.B. um bei einem Zugriff auf eine bestimmte Adresse den (ungefähren) Standort des Nutzers festzustellen anordnen, durchführen. Sollten entsprechende Maßnahmen rechtsgültig angeordnet  werden, so werden diese von der Warpzone e.V. umgesetzt werden. Für den Knotenbetreiber ist dies aus unserer Sicht unproblematisch, solange der Knotenbetreiber nicht mit dem Nutzer zusammenarbeitet um eine Straftat zu begehen, diese zu fördern oder das Netz für den Zweck von illegalen Aktivitäten zu bewerben oder anzubieten.
+
+\item Registrierungspflicht entsprechend §6 TKG. §6 TKG fordert von für bestimmte Telekommunikationsdienste eine Registrierung bei der zuständigen Regulierungsbehörde (Bundesnetzagentur). Längere Zeit war nicht klar ob dies auch „kommerzielle“ Betreiber von WLAN-Zugriffspunkten („Hotspots“) oder Freifunk-Knoten z.B. in Cafés notwendig ist. Am 4.3.2015 hat sich die Bundesnetzagentur in ihrer Mitteilung Nr. 149/2015 dahingehen geäußert, dass keine Meldepflicht besteht: „[…] In der überwiegenden Zahl der Fälle handelt es sich dabei eher um eine spontane, meist kurzzeitige auf den lokalen Herrschaftsbereich des Diensteanbieters beschränkte Inanspruchnahme der Telekommunikationsdienstleistung. Das Eröffnen dieser Nutzungsmöglichkeit stellt im Regelfall kein eigenständiges Erbringen, sondern lediglich eine „Mitwirkung an der Erbringung von Telekommunikationsdiensten“ (vgl. § 3 Nr. 6 b TKG) eines Dritten (Netzbetreiber und/oder TK-Diensteanbieter, einschließlich Wiederverkäufer) dar, der den eigentlichen Telekommunikationsanschluss seinem Vertragspartner bereitstellt. Dieses Angebot des  Diensteanbieters fällt damit nicht unter die Meldepflicht.“
+
+Quelle: https://www.bundesnetzagentur.de/SharedDocs/Downloads/DE/Sachgebiete/Telekommunikation/\linebreak Unternehmen\_Institutionen/Anbieterpflichten/Meldepflicht/Amtsblattmitteilung\_Nr149\_2015.pdf?\_{blob\linebreak =publicationFile\&v=1
+
+
+\item Aktuelle Gesetzesinitativen. Zur Zeit sind mehrere Gesetzesinitativen im Bund unterwegs, die potentiell Einfluss auf die Art und Weise haben können wie Freifunk betrieben wird. Generell ist die (auch veröffentlichte) Position der Warpzone e.V. dazu, dass wir Freifunk im Münsterland jeweils an die gültigen Gesetze bzw an die konkreten Anforderungen der entsprechenden Regulierungsorange anpassen werden.
+	\begin{enumerate}
+		\item TMG-E, Stand z.B. hier (http://www.offenenetze.de/2015/06/22/der-geaenderte-wlan-gesetzesentwurf-zur-aenderung-des-tmg-keine-verbesserungen-fuer-oeffentliche-wlans/). Der TMG-E-Entwurf verändert nach unserer bisherigen Analyse die rechtliche Situation von Freifunk nicht. Ob auf Basis von TMG-E in Zukunft auf die oben genannten Gateways verzichtet werden kann ist unklar. Ob TMG-E mit Europarecht (e-commerce Richtlinie Art 12.1) vereinbar ist bleibt abzuwarten, das Notifizerungsverfahren läuft.
+		\item Vorratsdatenspeicherung (VDS). Wir haben großen Zweifel ob die zur Zeit vorliegende Entwurf der VDS mit europäischen und deutschen Recht und mit Grundsätzen aus Entscheidungen des EUGH und BVerfG in dieser Sache vereinbar ist. Sollte die VDS in Kraft treten, bleibt im Rahmen der Übergangsfrist zu prüfen ob die VDS Freifunk betrifft.
+	\end{enumerate}
+\end{enumerate}
+
+Die Warpzone e.V. hat einen Anwalt unter Vertrag, der uns bei rechtlichen Fragen berät (http://kanzlei-schmitz.de/anwaelte.html#c641). Dieser kann auch ggf. bei einzelnen Detailfragen weiter beraten.
+
+\end{document}
