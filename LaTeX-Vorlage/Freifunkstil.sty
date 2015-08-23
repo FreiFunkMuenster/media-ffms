@@ -1,0 +1,41 @@
+\usepackage{eurosym}
+\usepackage{ragged2e}
+\usepackage{multicol}
+\usepackage{hyperref}
+\usepackage[utf8]{inputenc}
+\usepackage{ngerman}
+\setbeamertemplate{navigation symbols}{}
+\setbeamercovered{invisible}
+\usetheme{Ilmenau}
+\definecolor{ffred}{RGB}{220,0,103} % changed this
+\definecolor{ffyellow}{RGB}{255,180,0} % changed this
+\definecolor{ffblue}{RGB}{0,158,224} % changed this
+
+\setbeamercolor{normal text}{fg=black,bg=white}
+\setbeamercolor{alerted text}{fg=ffblue}
+\setbeamercolor{example text}{fg=ffblue}
+
+\setbeamercolor{structure}{fg=ffred}
+
+\setbeamercolor{background canvas}{parent=normal text}
+\setbeamercolor{background}{parent=background canvas}
+
+\setbeamercolor{palette primary}{fg=black,bg=ffyellow} % changed this
+\setbeamercolor{palette secondary}{bg=ffyellow,fg=ffblue} % changed this
+\setbeamercolor{palette tertiary}{bg=ffred,fg=ffblue} % changed this
+\setbeamertemplate{frametitle}
+{%
+\vspace{-0.165ex}
+
+\begin{beamercolorbox}[wd=\paperwidth,dp=1ex, ht=4.5ex, sep=0.5ex, colsep*=0pt]{frametitle}%
+    \usebeamerfont{frametitle}   \strut \insertframetitle  \hfill \raisebox{-1.6ex}[0pt][-\ht\strutbox ]{ \includegraphics[scale=0.2]{Vorlagen/logo-transparent.png}}
+    \end{beamercolorbox}%
+ }%
+
+ \AtBeginSection{
+	   \let\insertsectionnumber\relax
+	     \let\sectionname\relax
+	       \frame{\sectionpage}
+       }
+ \AtBeginSubsection{\let\insertsubsectionnumber\relax\let\subsectionnname\relax\frame{\subsectionpage}}
+ \AtBeginSubsubsection{\frame{\subsubsectionpage}}
