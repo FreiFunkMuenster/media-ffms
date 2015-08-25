@@ -37,5 +37,7 @@
 	     \let\sectionname\relax
 	       \frame{\sectionpage}
        }
- \AtBeginSubsection{\let\insertsubsectionnumber\relax\let\subsectionnname\relax\frame{\subsectionpage}}
- \AtBeginSubsubsection{\frame{\subsubsectionpage}}
+ \AtBeginSubsection{
+	       \let\insertsubsectionnumber\relax
+	         \let\subsectionname\relax
+		\frame{\subsectionpage}}
