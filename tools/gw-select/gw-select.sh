@@ -153,7 +153,7 @@ case "$1" in
                 ;;
  
         *)
-                echo "Usage: $0 {fanlin|commander|fusselkater|parad0x|sense|kgbvax01|descilla|default}"
+                echo "Usage: $0 {fanlin|commander|fusselkater|parad0x|sense|kgbvax01|descilla1|default}"
                 exit 1
 esac
 exit 0
