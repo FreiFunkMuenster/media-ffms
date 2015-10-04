@@ -17,6 +17,8 @@ fanlin_only()
         uci set fastd.mesh_vpn_backbone_peer_parad0x.enabled=0
         uci set fastd.mesh_vpn_backbone_peer_sense.enabled=0
         uci set fastd.mesh_vpn_backbone_peer_kgbvax01.enabled=0
+        uci set  fastd.mesh_vpn_backbone_peer_descilla1.enabled=0
+
         }
  
 commander1024_only()
@@ -27,6 +29,7 @@ commander1024_only()
         uci set fastd.mesh_vpn_backbone_peer_parad0x.enabled=0
         uci set fastd.mesh_vpn_backbone_peer_sense.enabled=0
         uci set fastd.mesh_vpn_backbone_peer_kgbvax01.enabled=0
+        uci set  fastd.mesh_vpn_backbone_peer_descilla1.enabled=0
         }
  
 fusselkater_only()
@@ -37,6 +40,8 @@ fusselkater_only()
         uci set fastd.mesh_vpn_backbone_peer_parad0x.enabled=0
         uci set fastd.mesh_vpn_backbone_peer_sense.enabled=0
         uci set fastd.mesh_vpn_backbone_peer_kgbvax01.enabled=0
+        uci set  fastd.mesh_vpn_backbone_peer_descilla1.enabled=0
+
         }
  
 parad0x_only()
@@ -47,6 +52,8 @@ parad0x_only()
         uci set fastd.mesh_vpn_backbone_peer_parad0x.enabled=1
         uci set fastd.mesh_vpn_backbone_peer_sense.enabled=0
         uci set fastd.mesh_vpn_backbone_peer_kgbvax01.enabled=0
+        uci set  fastd.mesh_vpn_backbone_peer_descilla1.enabled=0
+
         }
  
 sense_only()
@@ -57,6 +64,8 @@ sense_only()
         uci set fastd.mesh_vpn_backbone_peer_parad0x.enabled=0
         uci set fastd.mesh_vpn_backbone_peer_sense.enabled=1
         uci set fastd.mesh_vpn_backbone_peer_kgbvax01.enabled=0
+        uci set  fastd.mesh_vpn_backbone_peer_descilla1.enabled=0
+
         }
  
 kgbvax01_only()
@@ -67,6 +76,18 @@ kgbvax01_only()
         uci set fastd.mesh_vpn_backbone_peer_parad0x.enabled=0
         uci set fastd.mesh_vpn_backbone_peer_sense.enabled=0
         uci set fastd.mesh_vpn_backbone_peer_kgbvax01.enabled=1
+        uci set  fastd.mesh_vpn_backbone_peer_descilla1.enabled=0
+        }
+        
+descilla1_only()
+        {
+        uci set fastd.mesh_vpn_backbone_peer_fanlin.enabled=0
+        uci set fastd.mesh_vpn_backbone_peer_commander1024.enabled=0
+        uci set fastd.mesh_vpn_backbone_peer_fusselkater.enabled=0
+        uci set fastd.mesh_vpn_backbone_peer_parad0x.enabled=0
+        uci set fastd.mesh_vpn_backbone_peer_sense.enabled=0
+        uci set fastd.mesh_vpn_backbone_peer_kgbvax01.enabled=0
+        uci set  fastd.mesh_vpn_backbone_peer_descilla1.enabled=1
         }
  
 default()
@@ -77,6 +98,7 @@ default()
         uci set fastd.mesh_vpn_backbone_peer_parad0x.enabled=1
         uci set fastd.mesh_vpn_backbone_peer_sense.enabled=1
         uci set fastd.mesh_vpn_backbone_peer_kgbvax01.enabled=1
+         uci set  fastd.mesh_vpn_backbone_peer_descilla1.enabled=1
         }
  
 recycle_fastd()
@@ -120,13 +142,18 @@ case "$1" in
                 recycle_fastd
                 ;;
  
+ 		descilla1)
+ 				descilla1_only
+ 				recycle_fastd
+ 				;;
+ 				
         default)
                 default
                 recycle_fastd
                 ;;
  
         *)
-                echo "Usage: $0 {fanlin|commander|fusselkater|parad0x|sense|kgbvax01|default}"
+                echo "Usage: $0 {fanlin|commander|fusselkater|parad0x|sense|kgbvax01|descilla|default}"
                 exit 1
 esac
 exit 0
