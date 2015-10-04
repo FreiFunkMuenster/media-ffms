@@ -142,10 +142,10 @@ case "$1" in
                 recycle_fastd
                 ;;
  
- 		     descilla1)
- 			            descilla1_only
- 				           recycle_fastd
- 				           ;;
+        descilla1)
+                descilla1_only
+                recycle_fastd
+                ;;
  				
         default)
                 default
