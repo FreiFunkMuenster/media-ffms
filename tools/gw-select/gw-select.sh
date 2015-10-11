@@ -34,7 +34,7 @@ fanlin_only()
         uci set fastd.mesh_vpn_backbone_peer_parad0x.enabled=0
         uci set fastd.mesh_vpn_backbone_peer_sense.enabled=0
         uci set fastd.mesh_vpn_backbone_peer_sn_kgbvax_1.enabled=0
-        uci set fastd.mesh_vpn_backbone_peer_sn_kgbvax_2-a.enabled=0
+        uci set fastd.mesh_vpn_backbone_peer_sn_kgbvax_2_a.enabled=0
         uci set fastd.mesh_vpn_backbone_peer_sn_kgbvax_2_b.enabled=0
         uci set fastd.mesh_vpn_backbone_peer_sn_descilla_1.enabled=0
         }
@@ -79,7 +79,7 @@ fusselkater_only()
         uci set fastd.mesh_vpn_backbone_peer_parad0x.enabled=0
         uci set fastd.mesh_vpn_backbone_peer_sense.enabled=0
         uci set fastd.mesh_vpn_backbone_peer_sn_kgbvax_1.enabled=0
-        uci set fastd.mesh_vpn_backbone_peer_sn_kgbvax_2-a.enabled=0
+        uci set fastd.mesh_vpn_backbone_peer_sn_kgbvax_2_a.enabled=0
         uci set fastd.mesh_vpn_backbone_peer_sn_kgbvax_2_b.enabled=0
         uci set fastd.mesh_vpn_backbone_peer_sn_descilla_1.enabled=0
         }
@@ -94,7 +94,7 @@ parad0x_only()
         uci set fastd.mesh_vpn_backbone_peer_parad0x.enabled=1
         uci set fastd.mesh_vpn_backbone_peer_sense.enabled=0
         uci set fastd.mesh_vpn_backbone_peer_sn_kgbvax_1.enabled=0
-        uci set fastd.mesh_vpn_backbone_peer_sn_kgbvax_2-a.enabled=0
+        uci set fastd.mesh_vpn_backbone_peer_sn_kgbvax_2_a.enabled=0
         uci set fastd.mesh_vpn_backbone_peer_sn_kgbvax_2_b.enabled=0
         uci set fastd.mesh_vpn_backbone_peer_sn_descilla_1.enabled=0
         }
