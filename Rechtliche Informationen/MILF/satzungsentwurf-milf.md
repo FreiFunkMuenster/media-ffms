@@ -1,15 +1,16 @@
 # §1 (Name und Sitz)
 Der Verein führt den Namen Münsterländer Intressensverband lustbetonter Freifunk.  <<< Pull request accepted
+
 Die Kurzform ist MILF.
 
 Er soll in das Vereinsregister eingetragen werden und trägt dann den Zusatz "e.V."
 Der Sitz des Vereins ist Münster.
 Das Motto des Vereins lautet "Don't be Pinky".
 
-# § 2 (Geschäftsjahr)
+# §2 (Geschäftsjahr)
 Geschäftsjahr ist das Kalenderjahr.
 
-# § 3 (Zweck des Vereins)
+# §3 (Zweck des Vereins)
 Der Verein verfolgt ausschließlich und unmittelbar  gemeinnützige  Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung.
 
 Zweck des Vereins ist die Förderung von Wissenschaft und Forschung, Volks- und Berufsbildung, Kunst und Kultur sowie Bürgerschaftlichem Engengement.
@@ -46,7 +47,7 @@ Fördermitglied des Vereins kann jede natürliche oder jurstische Person werden,
 Gegen den ablehnenden Bescheid des Vorstands, der mit Gründen zu versehen ist, kann der Antragsteller Beschwerde erheben. Die Beschwerde ist innerhalb eines Monats ab Zugang des ablehnenden Bescheids schriftlich beim Vorstand einzulegen. Über die Beschwerde entscheidet die nächste ordentliche Mitgliederversammlung.
 
 
-# §8 Mitgliedsbeiträge
+# §8 (Mitgliedsbeiträge)
  Von den Mitgliedern werden Beiträge erhoben. Die Höhe des Jahresbeitrags und dessen Fälligkeit werden von der Mitgliederversammlung bestimmt.
 
 
@@ -80,6 +81,7 @@ Satzungsänderungen und die Auflösung des Vereins können nur mit einer Mehrhei
 Stimmenthaltungen und ungültige Stimmen bleiben außer Betracht.
 
 Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll anzufertigen, das vom Versammlungsleiter und dem Schriftführer zu unterzeichnen ist.
+
 #  §12 (Vorstand)
 Der Vorstand im Sinn des § 26 BGB besteht aus dem/der 1. und 2. Vorsitzenden und dem/der Kassierer/in. Sie vertreten den Verein gerichtlich und außergerichtlich. Zwei Vorstandsmitglieder vertreten gemeinsam.
 Der Vorstand wird von der Mitgliederversammlung auf die Dauer von einem Jahr gewählt.
