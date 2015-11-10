@@ -1,4 +1,4 @@
-§1 (Name und Sitz)
+# §1 (Name und Sitz)
 Der Verein führt den Namen Münsterländer Intressensverband lustbetonter Freifunk.  <<< Pull request accepted
 Die Kurzform ist MILF.
 
@@ -6,10 +6,10 @@ Er soll in das Vereinsregister eingetragen werden und trägt dann den Zusatz "e.
 Der Sitz des Vereins ist Münster.
 Das Motto des Vereins lautet "Don't be Pinky".
 
-§ 2 (Geschäftsjahr)
+# § 2 (Geschäftsjahr)
 Geschäftsjahr ist das Kalenderjahr.
 
-§ 3 (Zweck des Vereins)
+# § 3 (Zweck des Vereins)
 Der Verein verfolgt ausschließlich und unmittelbar  gemeinnützige  Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung.
 
 Zweck des Vereins ist die Förderung von Wissenschaft und Forschung, Volks- und Berufsbildung, Kunst und Kultur sowie Bürgerschaftlichem Engengement.
@@ -22,16 +22,16 @@ Der Satzungszweck wird verwirklicht insbesondere durch durch
 *Information über gesellschaftliche, kulturelle, gesundheitliche, rechtliche und weitere Auswirkungen freier Netzwerke;
 *Förderung und Unterstützung von Projekten und Initiativen, die in ähnlichen Bereichen tätig sind oder denen die Idee freier Netzwerke näher gebracht werden soll.
 
-§ 4 (Selbstlose Tätigkeit)
+# §4 (Selbstlose Tätigkeit)
 Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche 
 
-§ 5 (Mittelverwendung)
+# §5 (Mittelverwendung)
 Mittel des Vereins dürfen nur für die satzungsmäßigen Zwecke verwendet werden. Die Mitglieder erhalten keine Zuwendungen aus Mitteln des Vereins.
 
-§ 6 (Verbot von Begünstigungen)
+# §6 (Verbot von Begünstigungen)
 Es darf keine Person durch Ausgaben, die dem Zweck der Körperschaft fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
 
-§ 7 (Erwerb der Mitgliedschaft)
+# §7 (Erwerb der Mitgliedschaft)
 Vereinsmitglieder können natürliche Personen oder juristische Personen werden.
 
 Der Aufnahmeantrag ist schriftlich zu stellen.  
@@ -46,22 +46,22 @@ Fördermitglied des Vereins kann jede natürliche oder jurstische Person werden,
 Gegen den ablehnenden Bescheid des Vorstands, der mit Gründen zu versehen ist, kann der Antragsteller Beschwerde erheben. Die Beschwerde ist innerhalb eines Monats ab Zugang des ablehnenden Bescheids schriftlich beim Vorstand einzulegen. Über die Beschwerde entscheidet die nächste ordentliche Mitgliederversammlung.
 
 
-§ 8 Mitgliedsbeiträge
+# §8 Mitgliedsbeiträge
  Von den Mitgliedern werden Beiträge erhoben. Die Höhe des Jahresbeitrags und dessen Fälligkeit werden von der Mitgliederversammlung bestimmt.
 
 
-§ 9 (Beendigung der Mitgliedschaft)
+# §9 (Beendigung der Mitgliedschaft)
 Die Mitgliedschaft endet durch Austritt, Ausschluss, Termination, Tod oder Auflösung der juristischen Person.
 Der Austritt erfolgt durch schriftliche Erklärung gegenüber einem vertretungsberechtigten Vorstandsmitglied. 
 Ein Ausschluss kann nur aus wichtigem Grund erfolgen. Wichtige Gründe sind insbesondere ein die Vereinsziele schädigendes Verhalten, die Verletzung satzungsmäßiger Pflichten oder Beitragsrückstände von mindestens einem Jahr. Über den Ausschluss entscheidet der Vorstand. Der Vorstand hat die Vereinsmitglieder über einen Ausschluß eines Vereinsmitglieds zu informieren. Gegen den Ausschluss steht dem Mitglied die Berufung an die Mitgliederversammlung zu, die schriftlich binnen eines Monats an den Vorstand zu richten ist. Die Mitgliederversammlung entscheidet im Rahmen des Vereins endgültig. Dem Mitglied bleibt die Überprüfung der Maßnahme durch Anrufung der ordentlichen Gerichte vorbehalten. Die Anrufung eines ordentlichen Gerichts hat aufschiebende Wirkung bis zur Rechtskraft der gerichtlichen Entscheidung.
 
-§ 10 (Organe des Vereins)
+# §10 (Organe des Vereins)
 Organe des Vereins sind
 die Mitgliederversammlung
 der Vorstand
 
 
-§ 11 (Mitgliederversammlung)
+# §11 (Mitgliederversammlung)
 Die Mitgliederversammlung ist das oberste Vereinsorgan. Zu ihren Aufgaben gehören insbesondere die Wahl und Abwahl des Vorstands, Entlastung des Vorstands, Entgegennahme der Berichte des Vorstandes, Wahl der Kassenprüfern/innen Festsetzung von Beiträgen und deren Fälligkeit, Beschlussfassung über die Änderung der Satzung, Beschlussfassung über die Auflösung des Vereins, Entscheidung über Aufnahme und Ausschluss von Mitgliedern in Berufungsfällen sowie weitere Aufgaben, soweit sich diese aus der Satzung oder nach dem Gesetz ergeben.
 
 Einmal pro Geschäftsjahres findet eine ordentliche Mitgliederversammlung statt.
@@ -80,7 +80,7 @@ Satzungsänderungen und die Auflösung des Vereins können nur mit einer Mehrhei
 Stimmenthaltungen und ungültige Stimmen bleiben außer Betracht.
 
 Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll anzufertigen, das vom Versammlungsleiter und dem Schriftführer zu unterzeichnen ist.
-§ 12 (Vorstand)
+#  §12 (Vorstand)
 Der Vorstand im Sinn des § 26 BGB besteht aus dem/der 1. und 2. Vorsitzenden und dem/der Kassierer/in. Sie vertreten den Verein gerichtlich und außergerichtlich. Zwei Vorstandsmitglieder vertreten gemeinsam.
 Der Vorstand wird von der Mitgliederversammlung auf die Dauer von einem Jahr gewählt.
 Vorstandsmitglieder können nur Mitglieder des Vereins werden.
@@ -89,17 +89,18 @@ Der Vorstand bleibt solange im Amt, bis ein neuer Vorstand gewählt ist.
 Bei Beendigung der Mitgliedschaft im Verein endet auch das Amt als Vorstand.
 
 
-§ 13 (Kassenprüfung)
+# §13 (Kassenprüfung)
 Die Mitgliederversammlung wählt für die Dauer von einem Jahr eine/n Kassenprüfer/in.
 Diese/r darf nicht Mitglied des Vorstands sein.
 Wiederwahl ist zulässig.
 
-§ nn Transparenz 
+# §14  Transparenz 
 Der Mitgleider und Vorstand sind gehalten über ihre Tätigkeiten transparens herzustellen  und über diese regelmäßig und zeitnah zu berichten. Dies soll in "elektronischer Form" (Email, Forum, Blog) geschehen und allen Mitgliedern zugänglich sein.
 
 Der Vorstand ist aufgefordert im ersten Jahr des Vereinsbestehens den Verein per Selbstverpflichtung der "Initiative Transparente Zivilgesellschaft" anzuschliessen und die dem ITZ Leitfaden gebotenen Maßnahmen umzusetzen.  
 
 
-§ 14 (Auflösung des Vereins)
+# §15 (Auflösung des Vereins)
 Bei der Auflösung des Vereins  fällt das Vereinsvermögen an eine von der Mitgliederversammlung zu bestimmende Körperschaft des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft.
+
 Ort, Datum
