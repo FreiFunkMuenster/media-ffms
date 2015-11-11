@@ -47,7 +47,7 @@ Fördermitglied des Vereins kann jede natürliche oder juristische Person werden
 Gegen den ablehnenden Bescheid des Vorstands, der mit Gründen zu versehen ist, kann der Antragsteller Beschwerde erheben. Die Beschwerde ist innerhalb eines Monats ab Zugang des ablehnenden Bescheids schriftlich beim Vorstand einzulegen. Über die Beschwerde entscheidet die nächste ordentliche Mitgliederversammlung.
 
 # §8 (Mitgliedsbeiträge)
- Von den Mitgliedern werden Beiträge erhoben. Die Höhe des Jahresbeitrags und dessen Fälligkeit werden von der Mitgliederversammlung bestimmt.  
+Von den Mitgliedern werden Beiträge erhoben. Die Höhe des Jahresbeitrags und dessen Fälligkeit werden von der Mitgliederversammlung bestimmt.  
 Ehrenmitglieder sind vom Mitgliedsbeitrag befreit. Beiträge werden bevorzugt jährlich erhoben.
 Fördermitglieder setzen ihren Mitgliedsbeitrag selbst fest.
 
@@ -97,7 +97,7 @@ Eine Wiederwahl ist zulässig.
 Aufgabe des Kassenprüfer/-in ist es die Kasse, d.h. Ein- und Ausgaben, auf Korrektheit insbesondere in Bezug auf satzungsgemäße Verwendung der 
 
 # §14 Transparenzgebot 
-Der Mitglieder und Vorstand sind gehalten über ihre Tätigkeiten transparens herzustellen  und über diese regelmäßig und zeitnah zu berichten. Dies soll in "elektronischer Form" (Email, Forum, Blog) geschehen und allen Mitgliedern zugänglich sein.
+Der Mitglieder und Vorstand sind gehalten über ihre Tätigkeiten transparens herzustellen  und über diese regelmäßig und zeitnah zu berichten. Dies soll in "elektronischer Form" (E-Mail, Forum, Blog) geschehen und allen Mitgliedern zugänglich sein.
 
 Der Vorstand ist aufgefordert im ersten Jahr des Vereinsbestehens den Verein per Selbstverpflichtung der "Initiative Transparente Zivilgesellschaft" anzuschliessen und die dem ITZ Leitfaden gebotenen Maßnahmen umzusetzen.  
 
