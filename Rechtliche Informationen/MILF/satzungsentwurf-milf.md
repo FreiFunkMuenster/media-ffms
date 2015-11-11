@@ -1,5 +1,5 @@
 # §1 (Name und Sitz)
-Der Verein führt den Namen Münsterländer Intressensverband lustbetonter Freifunk.  <<< Pull request accepted
+Der Verein führt den Namen Münsterländer Intressensverband lustbetonter Freifunk.
 
 Die Kurzform ist MILF.
 
@@ -20,8 +20,8 @@ Der Satzungszweck wird verwirklicht insbesondere durch durch
 * Schaffung von freien Daten-Netzwerken ("Bürgernetzen")
 * Unterhaltung der dafür nötigen Infrastrukturen* Wissensvermittlung und Beratung von interessierte Bürgern und Organsiationen.
 * Unterstützung von Kunst- und Kultur- und Bildungsprojekten durch die Ermöglichung von Datenkommunikation von Kunstinstallation und Kulturveranstaltungen
-*Information über gesellschaftliche, kulturelle, gesundheitliche, rechtliche und weitere Auswirkungen freier Netzwerke;
-*Förderung und Unterstützung von Projekten und Initiativen, die in ähnlichen Bereichen tätig sind oder denen die Idee freier Netzwerke näher gebracht werden soll.
+* Information über gesellschaftliche, kulturelle, gesundheitliche, rechtliche und weitere Auswirkungen freier Netzwerke;
+* Förderung und Unterstützung von Projekten und Initiativen, die in ähnlichen Bereichen tätig sind oder denen die Idee freier Netzwerke näher gebracht werden soll.
 
 # §4 (Selbstlose Tätigkeit)
 Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche 
@@ -42,16 +42,14 @@ Mitglieder des Vereins sind ordentliche Mitglieder, Ehrenmitglieder und Förderm
 
 Ordentliches Mitglied des Vereins kann jede natürliche Person oder jursitische Person werden, die sich mit den Zielen des Vereins verbunden fühlt und den Verein aktiv fördern will.  
 
-Fördermitglied des Vereins kann jede natürliche oder jurstische Person werden, die sich mit den Zielen des Vereins verbunden fühlt und den Verein finanziell und ideell unterstützen will. Fördermitglieder sind nicht stimmberechtigt. Fördermitglieder setzen ihren Mitgliedsbeitrag selbst fest.
+Fördermitglied des Vereins kann jede natürliche oder juristische Person werden, die sich mit den Zielen des Vereins verbunden fühlt und den Verein finanziell und ideell unterstützen will. Fördermitglieder sind nicht stimmberechtigt. Fördermitglieder setzen ihren Mitgliedsbeitrag selbst fest.
 
 Gegen den ablehnenden Bescheid des Vorstands, der mit Gründen zu versehen ist, kann der Antragsteller Beschwerde erheben. Die Beschwerde ist innerhalb eines Monats ab Zugang des ablehnenden Bescheids schriftlich beim Vorstand einzulegen. Über die Beschwerde entscheidet die nächste ordentliche Mitgliederversammlung.
-
 
 # §8 (Mitgliedsbeiträge)
  Von den Mitgliedern werden Beiträge erhoben. Die Höhe des Jahresbeitrags und dessen Fälligkeit werden von der Mitgliederversammlung bestimmt.  
 Ehrenmitglieder sind vom Mitgliedsbeitrag befreit. Beiträge werden bevorzugt jährlich erhoben.
 Fördermitglieder setzen ihren Mitgliedsbeitrag selbst fest.
-
 
 # §9 Beendigung der Mitgliedschaft
 Die Mitgliedschaft endet durch Austritt, Ausschluss, Termination, Tod oder Auflösung der juristischen Person.
@@ -60,10 +58,9 @@ Ein Ausschluss kann nur aus wichtigem Grund erfolgen. Wichtige Gründe sind insb
 
 # §10 Organe des Vereins
 Organe des Vereins sind
-die Mitgliederversammlung
-der Vorstand
-(der Ältestenrat)
-
+* die Mitgliederversammlung
+* der Vorstand
+* (der Ältestenrat)
 
 # §11 Mitgliederversammlung
 Die Mitgliederversammlung ist das oberste Vereinsorgan. Zu ihren Aufgaben gehören insbesondere die Wahl und Abwahl des Vorstands, Entlastung des Vorstands, Entgegennahme der Berichte des Vorstandes, Wahl der Kassenprüfern/innen Festsetzung von Beiträgen und deren Fälligkeit, Beschlussfassung über die Änderung der Satzung, Beschlussfassung über die Auflösung des Vereins, Entscheidung über Aufnahme und Ausschluss von Mitgliedern in Berufungsfällen sowie weitere Aufgaben, soweit sich diese aus der Satzung oder nach dem Gesetz ergeben.
@@ -89,25 +86,24 @@ Stimmenthaltungen und ungültige Stimmen bleiben außer Betracht.
 Der Vorstand im Sinn des § 26 BGB besteht aus dem/der 1. und 2. Vorsitzenden und dem/der Kassierer/in. Sie vertreten den Verein gerichtlich und außergerichtlich. Zwei Vorstandsmitglieder vertreten gemeinsam.
 Der Vorstand wird von der Mitgliederversammlung auf die Dauer von einem Jahr gewählt.
 Vorstandsmitglieder können nur Mitglieder des Vereins werden.
-Wiederwahl ist zulässig.
+Eine Wiederwahl ist zulässig.
 Der Vorstand bleibt solange im Amt, bis ein neuer Vorstand gewählt ist.
 Bei Beendigung der Mitgliedschaft im Verein endet auch das Amt als Vorstand.
-
 
 # §13 Kassenprüfung
 Die Mitgliederversammlung wählt für die Dauer von einem Jahr eine/n Kassenprüfer/in.
 Diese/r darf nicht Mitglied des Vorstands sein.
-Wiederwahl ist zulässig.
-Aufgabe des Kassenprüfer/-in ist es die Kasse, d.h. Ein- uns Ausgaben auf Korrektheit insbesondere in Bezug auf Satzungsgemäße Verwendung der 
+Eine Wiederwahl ist zulässig.
+Aufgabe des Kassenprüfer/-in ist es die Kasse, d.h. Ein- und Ausgaben, auf Korrektheit insbesondere in Bezug auf satzungsgemäße Verwendung der 
 
-# §14  Transparenzgebot 
-Der Mitgleider und Vorstand sind gehalten über ihre Tätigkeiten transparens herzustellen  und über diese regelmäßig und zeitnah zu berichten. Dies soll in "elektronischer Form" (Email, Forum, Blog) geschehen und allen Mitgliedern zugänglich sein.
+# §14 Transparenzgebot 
+Der Mitglieder und Vorstand sind gehalten über ihre Tätigkeiten transparens herzustellen  und über diese regelmäßig und zeitnah zu berichten. Dies soll in "elektronischer Form" (Email, Forum, Blog) geschehen und allen Mitgliedern zugänglich sein.
 
 Der Vorstand ist aufgefordert im ersten Jahr des Vereinsbestehens den Verein per Selbstverpflichtung der "Initiative Transparente Zivilgesellschaft" anzuschliessen und die dem ITZ Leitfaden gebotenen Maßnahmen umzusetzen.  
 
 # §15 Symbolik
 
 # §16 Auflösung des Vereins
-Bei der Auflösung des Vereins  fällt das Vereinsvermögen an eine von der Mitgliederversammlung zu bestimmende Körperschaft des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft.
+Bei der Auflösung des Vereins fällt das Vereinsvermögen an eine von der Mitgliederversammlung zu bestimmende Körperschaft des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft.
 
 Ort, Datum
