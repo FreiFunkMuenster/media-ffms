@@ -1,4 +1,4 @@
-# §1 (Name und Sitz)
+# §1 Name und Sitz
 Der Verein führt den Namen Offene Netze Münster Operations.
 Die Kurzform ist MILF.
 
@@ -6,7 +6,7 @@ Er soll in das Vereinsregister eingetragen werden und trägt dann den Zusatz "e.
 Der Sitz des Vereins ist Münster.
 
 # §2 Geschäftsjahr
-Geschäftsjahr ist das Kalenderjahr.
+Geschäftsjahr beginnt am 1. April eines Jahres.
 
 # §3 Zweck des Vereins
 Der Verein verfolgt ausschließlich und unmittelbar  gemeinnützige  Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung.
@@ -20,16 +20,16 @@ Der Satzungszweck wird verwirklicht insbesondere durch durch
 * Unterstützung von Kunst- und Kultur- und Bildungsprojekten durch die Ermöglichung von Datenkommunikation von Kunstinstallation und Kulturveranstaltungen
 * Förderung und Unterstützung von Projekten und Initiativen, die in ähnlichen Bereichen tätig sind oder denen die Idee freier Netzwerke näher gebracht werden soll.
 
-# §4 (Selbstlose Tätigkeit)
+# §4 Selbstlose Tätigkeit
 Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche Ziele.
 
-# §5 (Mittelverwendung)
+# §5 Mittelverwendung
 Mittel des Vereins dürfen nur für die satzungsmäßigen Zwecke verwendet werden. Die Mitglieder erhalten keine Zuwendungen aus Mitteln des Vereins.
 
-# §6 (Verbot von Begünstigungen)
+# §6 Verbot von Begünstigungen
 Es darf keine Person durch Ausgaben, die dem Zweck der Körperschaft fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
 
-# §7 (Erwerb der Mitgliedschaft)
+# §7 Erwerb der Mitgliedschaft
 Vereinsmitglieder können natürliche Personen oder juristische Personen werden.
 
 Der Aufnahmeantrag ist schriftlich zu stellen.  
@@ -43,8 +43,8 @@ Fördermitglied des Vereins kann jede natürliche oder juristische Person werden
 
 Gegen den ablehnenden Bescheid des Vorstands, der mit Gründen zu versehen ist, kann der Antragsteller Beschwerde erheben. Die Beschwerde ist innerhalb eines Monats ab Zugang des ablehnenden Bescheids schriftlich beim Vorstand einzulegen. Über die Beschwerde entscheidet die nächste ordentliche Mitgliederversammlung.
 
-# §8 (Mitgliedsbeiträge)
-Von den Mitgliedern werden Beiträge erhoben. Die Höhe des Jahresbeitrags und dessen Fälligkeit werden von der Mitgliederversammlung bestimmt.  
+# §8 Mitgliedsbeiträge
+Von den Mitgliedern werden Beiträge erhoben. Die Höhe des Jahresbeitrags und dessen Fälligkeit werden von der Mitgliederversammlung bestimmt und in einer Beitragsordnung festgehalten. 
 Ehrenmitglieder sind vom Mitgliedsbeitrag befreit. Beiträge werden bevorzugt jährlich erhoben.
 Fördermitglieder setzen ihren Mitgliedsbeitrag selbst fest.
 
@@ -57,7 +57,6 @@ Ein Ausschluss kann nur aus wichtigem Grund erfolgen. Wichtige Gründe sind insb
 Organe des Vereins sind
 * die Mitgliederversammlung
 * der Vorstand
-* (der Ältestenrat)
 
 # §11 Mitgliederversammlung
 Die Mitgliederversammlung ist das oberste Vereinsorgan. Zu ihren Aufgaben gehören insbesondere die Wahl und Abwahl des Vorstands, Entlastung des Vorstands, Entgegennahme der Berichte des Vorstandes, Wahl der Kassenprüfern/innen Festsetzung von Beiträgen und deren Fälligkeit, Beschlussfassung über die Änderung der Satzung, Beschlussfassung über die Auflösung des Vereins, Entscheidung über Aufnahme und Ausschluss von Mitgliedern in Berufungsfällen sowie weitere Aufgaben, soweit sich diese aus der Satzung oder nach dem Gesetz ergeben.
