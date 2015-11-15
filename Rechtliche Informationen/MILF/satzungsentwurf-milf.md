@@ -1,11 +1,9 @@
 # §1 (Name und Sitz)
-Der Verein führt den Namen Münsterländer Intressensverband lustbetonter Freifunk.
-
+Der Verein führt den Namen Offene Netze Münster Operations.
 Die Kurzform ist MILF.
 
 Er soll in das Vereinsregister eingetragen werden und trägt dann den Zusatz "e.V."
 Der Sitz des Vereins ist Münster.
-Das Motto des Vereins lautet "Don't be Pinky".
 
 # §2 Geschäftsjahr
 Geschäftsjahr ist das Kalenderjahr.
@@ -20,7 +18,6 @@ Der Satzungszweck wird verwirklicht insbesondere durch durch
 * Schaffung von freien Daten-Netzwerken ("Bürgernetzen")
 * Unterhaltung der dafür nötigen Infrastrukturen* Wissensvermittlung und Beratung von interessierte Bürgern und Organsiationen.
 * Unterstützung von Kunst- und Kultur- und Bildungsprojekten durch die Ermöglichung von Datenkommunikation von Kunstinstallation und Kulturveranstaltungen
-* Information über gesellschaftliche, kulturelle, gesundheitliche, rechtliche und weitere Auswirkungen freier Netzwerke;
 * Förderung und Unterstützung von Projekten und Initiativen, die in ähnlichen Bereichen tätig sind oder denen die Idee freier Netzwerke näher gebracht werden soll.
 
 # §4 (Selbstlose Tätigkeit)
