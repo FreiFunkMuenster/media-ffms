@@ -100,6 +100,6 @@ Der Vorstand ist aufgefordert im ersten Jahr des Vereinsbestehens den Verein per
 # §15 Symbolik
 
 # §16 Auflösung des Vereins
-Bei der Auflösung des Vereins fällt das Vereinsvermögen an eine von der Mitgliederversammlung zu bestimmende Körperschaft des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft.
+Bei der Auflösung des Vereins fällt das Vereinsvermögen an den warpzone e.V. mit Sitz in Münster. Besteht dieser nicht mehr, fällt das Vereinsvermögen an eine von der Mitgliederversammlung zu bestimmende Körperschaft des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft.
 
 Ort, Datum
