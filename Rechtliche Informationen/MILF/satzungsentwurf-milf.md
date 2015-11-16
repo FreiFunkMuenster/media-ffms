@@ -1,6 +1,6 @@
 # §1 Name und Sitz
-Der Verein führt den Namen Offene Netze Münster Operations.
-Die Kurzform ist MILF.
+Der Verein führt den Namen Offene Netze Münster.
+
 
 Er soll in das Vereinsregister eingetragen werden und trägt dann den Zusatz "e.V."
 Der Sitz des Vereins ist Münster.
