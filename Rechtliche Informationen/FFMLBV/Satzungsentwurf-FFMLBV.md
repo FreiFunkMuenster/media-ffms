@@ -1,6 +1,5 @@
 # §1 Name und Sitz
-Der Verein führt den Namen Offene Netze Münster Operations.
-Die Kurzform ist MILF.
+Der Verein trägt den Namen Freifunk Münsterland Betriebsverein. Die Kurzform ist FFMLBV.
 
 Er soll in das Vereinsregister eingetragen werden und trägt dann den Zusatz "e.V."
 Der Sitz des Vereins ist Münster.
