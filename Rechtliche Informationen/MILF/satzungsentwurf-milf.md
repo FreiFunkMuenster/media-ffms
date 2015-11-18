@@ -45,8 +45,7 @@ Gegen den ablehnenden Bescheid des Vorstands, der mit Gründen zu versehen ist, 
 
 # §8 Mitgliedsbeiträge
 Von den Mitgliedern werden Beiträge erhoben. Die Höhe des Jahresbeitrags und dessen Fälligkeit werden von der Mitgliederversammlung bestimmt und in einer Beitragsordnung festgehalten. 
-Ehrenmitglieder sind vom Mitgliedsbeitrag befreit. Beiträge werden bevorzugt jährlich erhoben.
-Fördermitglieder setzen ihren Mitgliedsbeitrag selbst fest.
+
 
 # §9 Beendigung der Mitgliedschaft
 Die Mitgliedschaft endet durch Austritt, Ausschluss, Termination, Tod oder Auflösung der juristischen Person.
@@ -71,7 +70,8 @@ Anträge über die Abwahl des Vorstands, über die Änderung der Satzung und üb
 Die Mitgliederversammlung ist ohne Rücksicht auf die Zahl der erschienenen Mitglieder beschlussfähig.
 Zu Beginn der Mitgliederversammlung ist ein Versammlungsleiter zu wählen.
 Zu Beginn der Mitgliederversammlung ist ein Schriftführer zu wählen.
-Jedes ordentliche Mitglied hat eine Stimme. Das Stimmrecht kann nur persönlich oder für ein Mitglied unter Vorlage einer schriftlichen Vollmacht ausgeübt werden.
+Jedes ordentliche Mitglied hat eine Stimme. 
+Das Stimmrecht kann nur persönlich oder für ein Mitglied unter Vorlage einer schriftlichen Vollmacht ausgeübt werden.
 Bei Abstimmungen entscheidet die einfache Mehrheit der abgegebenen Stimmen.
 Satzungsänderungen und die Auflösung des Vereins können nur mit einer Mehrheit von 2/3 der anwesenden Mitglieder beschlossen werden.
 Stimmenthaltungen und ungültige Stimmen bleiben außer Betracht.
