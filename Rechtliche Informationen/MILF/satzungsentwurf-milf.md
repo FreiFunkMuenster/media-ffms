@@ -14,9 +14,10 @@ Der Verein verfolgt ausschließlich und unmittelbar  gemeinnützige  Zwecke im S
 Zweck des Vereins ist die Förderung von Wissenschaft und Forschung, Volks- und Berufsbildung, Kunst und Kultur sowie Bürgerschaftlichem Engengement.
 Der Satzungszweck wird verwirklicht insbesondere durch durch 
 
-* Erforschung und Weiterentwicklung von  freien Datennetzwerke sowohl auf technischer als auch gesellschaftlicher Ebene 
-* Schaffung von freien Daten-Netzwerken ("Bürgernetzen")
-* Unterhaltung der dafür nötigen Infrastrukturen* Wissensvermittlung und Beratung von interessierte Bürgern und Organsiationen.
+* Erforschung und Weiterentwicklung von  freien Datennetzwerke sowohl auf technischer als auch gesellschaftlicher Ebene. 
+* Schaffung von freien Daten-Netzwerken ("Bürgernetzen").
+* Unterhaltung und Betrieb der dafür nötigen Infrastrukturen.
+* Wissensvermittlung und Beratung von interessierte Bürgern und Organsiationen.
 * Unterstützung von Kunst- und Kultur- und Bildungsprojekten durch die Ermöglichung von Datenkommunikation von Kunstinstallation und Kulturveranstaltungen
 * Förderung und Unterstützung von Projekten und Initiativen, die in ähnlichen Bereichen tätig sind oder denen die Idee freier Netzwerke näher gebracht werden soll.
 
