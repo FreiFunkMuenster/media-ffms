@@ -100,6 +100,8 @@ Haushaltsführung hinzuwirken. Mit Ablauf des Geschäftsjahres stellt er/sie unv
 die Abrechnung sowie die Vermögensübersicht und sonstige Unterlagen von wirtschaftlichem
 Belang den Finanzprüfern des Vereins zur Verfügung.
 
+Die Vorstandsmitglieder sind ehrenamtlich tätig.
+
 # §13 Kassenprüfung
 Die Mitgliederversammlung wählt für die Dauer von einem Jahr eine/n Kassenprüfer/in.
 Diese/r darf nicht Mitglied des Vorstands sein.
