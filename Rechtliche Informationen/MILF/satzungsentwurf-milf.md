@@ -81,6 +81,7 @@ Stimmenthaltungen und ungültige Stimmen bleiben außer Betracht.
 #  §12 Vorstand
 Der Vorstand im Sinn des § 26 BGB besteht aus dem/der 1. und 2. Vorsitzenden und dem/der Kassierer/in. Sie vertreten den Verein gerichtlich und außergerichtlich. Zwei Vorstandsmitglieder vertreten gemeinsam.
 Der Vorstand wird von der Mitgliederversammlung auf die Dauer von einem Jahr gewählt.
+Eine vorzeitige Neuwahl eines Postens ändert den Wahlrhythmus nicht.
 Vorstandsmitglieder können nur Mitglieder des Vereins werden.
 Eine Wiederwahl ist zulässig.
 Der Vorstand bleibt solange im Amt, bis ein neuer Vorstand gewählt ist.
