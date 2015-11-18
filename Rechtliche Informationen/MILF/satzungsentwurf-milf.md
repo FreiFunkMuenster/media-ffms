@@ -87,6 +87,10 @@ Eine Wiederwahl ist zulässig.
 Der Vorstand bleibt solange im Amt, bis ein neuer Vorstand gewählt ist.
 Bei Beendigung der Mitgliedschaft im Verein endet auch das Amt als Vorstand.
 
+Besteht der Vorstand aus weniger als zwei Mitgliedern, so sind unverzüglich Nachwahlen
+durchzuführen.
+
+
 # §13 Kassenprüfung
 Die Mitgliederversammlung wählt für die Dauer von einem Jahr eine/n Kassenprüfer/in.
 Diese/r darf nicht Mitglied des Vorstands sein.
