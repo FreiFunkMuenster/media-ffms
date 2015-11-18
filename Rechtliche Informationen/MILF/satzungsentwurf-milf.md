@@ -39,7 +39,7 @@ Mitglieder des Vereins sind ordentliche Mitglieder, Ehrenmitglieder und Förderm
 
 Ordentliches Mitglied des Vereins kann jede natürliche Person oder jursitische Person werden, die sich mit den Zielen des Vereins verbunden fühlt und den Verein aktiv fördern will.  
 
-Fördermitglied des Vereins kann jede natürliche oder juristische Person werden, die sich mit den Zielen des Vereins verbunden fühlt und den Verein finanziell und ideell unterstützen will. Fördermitglieder sind nicht stimmberechtigt. Fördermitglieder setzen ihren Mitgliedsbeitrag selbst fest.
+Fördermitglied des Vereins kann jede natürliche oder juristische Person werden, die sich mit den Zielen des Vereins verbunden fühlt und den Verein finanziell und ideell unterstützen will. Fördermitglieder sind nicht stimmberechtigt. 
 
 Gegen den ablehnenden Bescheid des Vorstands, der mit Gründen zu versehen ist, kann der Antragsteller Beschwerde erheben. Die Beschwerde ist innerhalb eines Monats ab Zugang des ablehnenden Bescheids schriftlich beim Vorstand einzulegen. Über die Beschwerde entscheidet die nächste ordentliche Mitgliederversammlung.
 
