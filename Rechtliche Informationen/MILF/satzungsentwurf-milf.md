@@ -21,7 +21,8 @@ Der Satzungszweck wird verwirklicht insbesondere durch durch
 * Förderung und Unterstützung von Projekten und Initiativen, die in ähnlichen Bereichen tätig sind oder denen die Idee freier Netzwerke näher gebracht werden soll.
 
 # §4 Selbstlose Tätigkeit
-Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche Ziele.
+Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche Ziele. 
+Die Zahlung pauschaler Aufwandsentschädigungen an Mitglieder des Vorstandes oder anderweitig für den Verein tätige Mitglieder in angemessener Höhe ist zulässig. Niemand darf durch Ausgaben, die dem Zwecke des Vereins fremd sind oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
 
 # §5 Mittelverwendung
 Mittel des Vereins dürfen nur für die satzungsmäßigen Zwecke verwendet werden. Die Mitglieder erhalten keine Zuwendungen aus Mitteln des Vereins.
