@@ -90,6 +90,9 @@ Bei Beendigung der Mitgliedschaft im Verein endet auch das Amt als Vorstand.
 Besteht der Vorstand aus weniger als zwei Mitgliedern, so sind unverzüglich Nachwahlen
 durchzuführen.
 
+Beschlüsse des Vorstands werden mit der Mehrheit der Stimmen der an der Beschlussfassung
+teilnehmenden Vorstandsmitglieder gefasst. Bei Stimmengleichheit gibt die Stimme
+des Vorsitzenden, bei seiner Abwesenheit die des zweiten Vorsitzenden den Ausschlag.
 
 # §13 Kassenprüfung
 Die Mitgliederversammlung wählt für die Dauer von einem Jahr eine/n Kassenprüfer/in.
