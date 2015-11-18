@@ -6,7 +6,8 @@ Er soll in das Vereinsregister eingetragen werden und trägt dann den Zusatz "e.
 Der Sitz des Vereins ist Münster.
 
 # §2 Geschäftsjahr
-Geschäftsjahr beginnt am 1. April eines Jahres.
+Das Geschäftsjahr ist das Kalenderjahr. Das erste Geschäftsjahr beginnt mit der Eintragung
+des Vereins in das Vereinsregister und endet am 31.12. diesen Jahres.
 
 # §3 Zweck des Vereins
 Der Verein verfolgt ausschließlich und unmittelbar  gemeinnützige  Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung.
