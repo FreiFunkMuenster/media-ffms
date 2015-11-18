@@ -100,6 +100,8 @@ Der Vorstand ist aufgefordert im ersten Jahr des Vereinsbestehens den Verein per
 # §15 Symbolik
 
 # §16 Auflösung des Vereins
-Bei der Auflösung des Vereins fällt das Vereinsvermögen an eine von der Mitgliederversammlung zu bestimmende Körperschaft des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft.
+
+Bei Auflösung oder Aufhebung des Vereins fällt das Vermögen der Körperschaft zu gleichen teilen an den Förderverein Freie Netze e.V. und den Freifunk Rheinland e.V. die es unmittelbar und ausschließlich für den weiteren Ausbau von Freifunk-Netzwerken zu verwenden haben. 
+
 
 Ort, Datum
