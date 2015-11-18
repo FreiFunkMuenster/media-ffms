@@ -90,7 +90,8 @@ Bei Beendigung der Mitgliedschaft im Verein endet auch das Amt als Vorstand.
 Die Mitgliederversammlung wählt für die Dauer von einem Jahr eine/n Kassenprüfer/in.
 Diese/r darf nicht Mitglied des Vorstands sein.
 Eine Wiederwahl ist zulässig.
-Aufgabe des Kassenprüfer/-in ist es die Kasse, d.h. Ein- und Ausgaben, auf Korrektheit insbesondere in Bezug auf satzungsgemäße Verwendung der 
+Aufgabe des Kassenprüfer/-in ist es die Kasse, d.h. Ein- und Ausgaben, auf Korrektheit insbesondere in Bezug auf satzungsgemäße Verwendung der Vereinsmittel.
+Der/Die Kassenprüfer/-in erstattet der Mitgliederversammlung Bericht.  
 
 # §14 Transparenzgebot 
 Der Mitglieder und Vorstand sind gehalten über ihre Tätigkeiten transparens herzustellen  und über diese regelmäßig und zeitnah zu berichten. Dies soll in "elektronischer Form" (E-Mail, Forum, Blog) geschehen und allen Mitgliedern zugänglich sein.
