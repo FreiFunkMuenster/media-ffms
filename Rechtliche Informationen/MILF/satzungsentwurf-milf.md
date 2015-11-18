@@ -94,6 +94,12 @@ Beschlüsse des Vorstands werden mit der Mehrheit der Stimmen der an der Beschlu
 teilnehmenden Vorstandsmitglieder gefasst. Bei Stimmengleichheit gibt die Stimme
 des Vorsitzenden, bei seiner Abwesenheit die des zweiten Vorsitzenden den Ausschlag.
 
+Der/Die Kassierer/in überwacht die Haushaltsführung und verwaltet unter Beachtung etwaiger
+Vorstandsbeschlüsse das Vermögen des Vereins. Er/Sie hat auf eine sparsame und wirtschaftliche
+Haushaltsführung hinzuwirken. Mit Ablauf des Geschäftsjahres stellt er/sie unverzüglich
+die Abrechnung sowie die Vermögensübersicht und sonstige Unterlagen von wirtschaftlichem
+Belang den Finanzprüfern des Vereins zur Verfügung.
+
 # §13 Kassenprüfung
 Die Mitgliederversammlung wählt für die Dauer von einem Jahr eine/n Kassenprüfer/in.
 Diese/r darf nicht Mitglied des Vorstands sein.
