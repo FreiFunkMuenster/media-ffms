@@ -1,7 +1,6 @@
 # §1 Name und Sitz
 Der Verein führt den Namen Offene Netze Münster.
 
-
 Er soll in das Vereinsregister eingetragen werden und trägt dann den Zusatz "e.V."
 Der Sitz des Vereins ist Münster.
 
@@ -9,12 +8,12 @@ Der Sitz des Vereins ist Münster.
 Geschäftsjahr beginnt am 1. April eines Jahres.
 
 # §3 Zweck des Vereins
-Der Verein verfolgt ausschließlich und unmittelbar  gemeinnützige  Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung.
+Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung.
 
 Zweck des Vereins ist die Förderung von Wissenschaft und Forschung, Volks- und Berufsbildung, Kunst und Kultur sowie Bürgerschaftlichem Engengement.
-Der Satzungszweck wird verwirklicht insbesondere durch durch 
+Der Satzungszweck wird verwirklicht insbesondere durch
 
-* Erforschung und Weiterentwicklung von  freien Datennetzwerke sowohl auf technischer als auch gesellschaftlicher Ebene 
+* Erforschung und Weiterentwicklung von freien Datennetzwerke sowohl auf technischer als auch auf gesellschaftlicher Ebene 
 * Schaffung von freien Daten-Netzwerken ("Bürgernetzen")
 * Unterhaltung der dafür nötigen Infrastrukturen* Wissensvermittlung und Beratung von interessierte Bürgern und Organsiationen.
 * Unterstützung von Kunst- und Kultur- und Bildungsprojekten durch die Ermöglichung von Datenkommunikation von Kunstinstallation und Kulturveranstaltungen
@@ -51,7 +50,7 @@ Fördermitglieder setzen ihren Mitgliedsbeitrag selbst fest.
 # §9 Beendigung der Mitgliedschaft
 Die Mitgliedschaft endet durch Austritt, Ausschluss, Termination, Tod oder Auflösung der juristischen Person.
 Der Austritt erfolgt durch schriftliche Erklärung gegenüber einem vertretungsberechtigten Vorstandsmitglied. 
-Ein Ausschluss kann nur aus wichtigem Grund erfolgen. Wichtige Gründe sind insbesondere ein die Vereinsziele schädigendes Verhalten, die Verletzung satzungsmäßiger Pflichten oder Beitragsrückstände von mindestens einem Jahr. Über den Ausschluss entscheidet der Vorstand. Der Vorstand hat die Vereinsmitglieder über einen Ausschluß eines Vereinsmitglieds zu informieren. Gegen den Ausschluss steht dem Mitglied die Berufung an die Mitgliederversammlung zu, die schriftlich binnen eines Monats an den Vorstand zu richten ist. Die Mitgliederversammlung entscheidet im Rahmen des Vereins endgültig. Dem Mitglied bleibt die Überprüfung der Maßnahme durch Anrufung der ordentlichen Gerichte vorbehalten. Die Anrufung eines ordentlichen Gerichts hat aufschiebende Wirkung bis zur Rechtskraft der gerichtlichen Entscheidung.
+Ein Ausschluss kann nur aus wichtigem Grund erfolgen. Wichtige Gründe sind insbesondere ein die Vereinsziele schädigendes Verhalten, die Verletzung satzungsmäßiger Pflichten oder Beitragsrückstände von mindestens einem Jahr. Über den Ausschluss entscheidet der Vorstand. Der Vorstand hat die Vereinsmitglieder über einen Ausschluss eines Vereinsmitglieds zu informieren. Gegen den Ausschluss steht dem Mitglied die Berufung an die Mitgliederversammlung zu, die schriftlich binnen eines Monats an den Vorstand zu richten ist. Die Mitgliederversammlung entscheidet im Rahmen des Vereins endgültig. Dem Mitglied bleibt die Überprüfung der Maßnahme durch Anrufung der ordentlichen Gerichte vorbehalten. Die Anrufung eines ordentlichen Gerichts hat aufschiebende Wirkung bis zur Rechtskraft der gerichtlichen Entscheidung.
 
 # §10 Organe des Vereins
 Organe des Vereins sind
@@ -94,13 +93,13 @@ Aufgabe des Kassenprüfer/-in ist es die Kasse, d.h. Ein- und Ausgaben, auf Korr
 Der/Die Kassenprüfer/-in erstattet der Mitgliederversammlung Bericht.  
 
 # §14 Transparenzgebot 
-Der Mitglieder und Vorstand sind gehalten über ihre Tätigkeiten transparens herzustellen  und über diese regelmäßig und zeitnah zu berichten. Dies soll in "elektronischer Form" (E-Mail, Forum, Blog) geschehen und allen Mitgliedern zugänglich sein.
+Die Mitglieder und der Vorstand sind gehalten über ihre Tätigkeiten Transparenz herzustellen und über diese regelmäßig und zeitnah zu berichten. Dies soll in "elektronischer Form" (E-Mail, Forum, Blog) geschehen und allen Mitgliedern zugänglich sein.
 
-Der Vorstand ist aufgefordert im ersten Jahr des Vereinsbestehens den Verein per Selbstverpflichtung der "Initiative Transparente Zivilgesellschaft" anzuschliessen und die dem ITZ Leitfaden gebotenen Maßnahmen umzusetzen.  
+Der Vorstand ist aufgefordert, im ersten Jahr des Vereinsbestehens den Verein per Selbstverpflichtung der "Initiative Transparente Zivilgesellschaft" anzuschließen und die dem ITZ Leitfaden gebotenen Maßnahmen umzusetzen.  
 
 # §15 Symbolik
 
 # §16 Auflösung des Vereins
-Bei der Auflösung des Vereins fällt das Vereinsvermögen an eine von der Mitgliederversammlung zu bestimmende Körperschaft des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft.
+Bei der Auflösung des Vereins fällt das Vereinsvermögen an den warpzone e.V. mit Sitz in Münster. Besteht dieser nicht mehr, fällt das Vereinsvermögen an eine von der Mitgliederversammlung zu bestimmende Körperschaft des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft.
 
 Ort, Datum
