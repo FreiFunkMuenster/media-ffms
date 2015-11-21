@@ -101,7 +101,7 @@ Der Vorstand ist aufgefordert im ersten Jahr des Vereinsbestehens den Verein per
 
 # §16 Auflösung des Vereins
 
-Bei Auflösung oder Aufhebung des Vereins fällt das Vermögen der Körperschaft zu gleichen teilen an den Förderverein Freie Netze e.V. und den Freifunk Rheinland e.V. die es unmittelbar und ausschließlich für den weiteren Ausbau von Freifunk-Netzwerken zu verwenden haben. 
+Bei Auflösung oder Aufhebung des Vereins fällt das Vermögen der Körperschaft zu gleichen Teilen an den Förderverein Freie Netzwerke e.V. und den Freifunk Rheinland e.V. die es unmittelbar und ausschließlich für den weiteren Ausbau von Freifunk-Netzwerken zu verwenden haben. 
 
 
 Ort, Datum
