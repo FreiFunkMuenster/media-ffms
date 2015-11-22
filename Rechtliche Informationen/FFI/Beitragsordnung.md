@@ -1,30 +1,30 @@
 
-# §1 Höhe der Beiträge
+# Â§1 HÃ¶he der BeitrÃ¤ge
 
-Der jährliche Mitgliedsbeitrag für natürliche und juristische Personen beträgt 60 EUR. 
+Der jÃ¤hrliche Mitgliedsbeitrag fÃ¼r natÃ¼rliche und juristische Personen betrÃ¤gt 60 EUR. 
 
 Ehrenmitglieder sind laut Satzung von der Beitragszahlung befreit.
 
-Fördermitglieder setzen Ihren Beitrag selber fest, der jährliche Mindestbeitrag liegt bei 60 EUR. 
+FÃ¶rdermitglieder setzen Ihren Beitrag selber fest, der jÃ¤hrliche Mindestbeitrag liegt bei 5 EUR. 
 
 
-# §2 Ermäßigung
+# Â§2 ErmÃ¤ÃŸigung
 
-Für Personen mit eingeschränkter finanzieller Leistungskraft (z.B. Schüler, Studenten, Arbeitslose, Rentner und Sozialhilfeempfänger) kann der Mitgliedsbeitrag auf Antrag ermäßigt werden.
+FÃ¼r Personen mit eingeschrÃ¤nkter finanzieller Leistungskraft (z.B. SchÃ¼ler, Studenten, Arbeitslose, Rentner und SozialhilfeempfÃ¤nger) kann der Mitgliedsbeitrag auf Antrag ermÃ¤ÃŸigt werden.
 
-Der ermäßigte Beitrag beträgt jährlich 12 EUR.
+Der ermÃ¤ÃŸigte Beitrag betrÃ¤gt jÃ¤hrlich 12 EUR.
 
-Der Vorstand entscheidet über den schriftlich eingebrachten Antrag auf
-Ermäßigung der Beitragspflicht aus Gründen des Absatzes 1.
+Der Vorstand entscheidet Ã¼ber den schriftlich eingebrachten Antrag auf
+ErmÃ¤ÃŸigung der Beitragspflicht aus GrÃ¼nden des Absatzes 1.
 
 
-§2 Fälligkeit/Zahlungsweise
+Â§2 FÃ¤lligkeit/Zahlungsweise
 
-1/12 des Jahresbeitrages wird jeweils zum 1. des Monats bzw. mit der Annahme des Aufnahmeantrags in voller Höhe im Voraus fällig. 
+1/12 des Jahresbeitrages wird jeweils zum 1. des Monats bzw. mit der Annahme des Aufnahmeantrags in voller HÃ¶he im Voraus fÃ¤llig. 
 Das Mitglied hat dem Verein den Einzug des Beitrages per Lastschriftverfahren zu gestatten.
 
-Alternativ ist es dem Mitglied gestattet, den Jahresbeitrag zum 1. Januar im Voraus per Überweisung zu
+Alternativ ist es dem Mitglied gestattet, den Jahresbeitrag zum 1. Januar im Voraus per Ãœberweisung zu
 zahlen.
 
-Im Falle des Beitritts während des laufenden Jahres ist für dieses Jahr ein entsprechend anteiliger Beitrag ab dem 1. des Beitrittsmonats zu zahlen.
+Im Falle des Beitritts wÃ¤hrend des laufenden Jahres ist fÃ¼r dieses Jahr ein entsprechend anteiliger Beitrag ab dem 1. des Beitrittsmonats zu zahlen.
 
