@@ -83,10 +83,26 @@ Stimmenthaltungen und ungültige Stimmen bleiben außer Betracht.
 #  §12 Vorstand
 Der Vorstand im Sinn des § 26 BGB besteht aus dem/der 1. und 2. Vorsitzenden und dem/der Kassierer/in. Sie vertreten den Verein gerichtlich und außergerichtlich. Zwei Vorstandsmitglieder vertreten gemeinsam.
 Der Vorstand wird von der Mitgliederversammlung auf die Dauer von einem Jahr gewählt.
+Eine vorzeitige Neuwahl eines Postens ändert den Wahlrhythmus nicht.
 Vorstandsmitglieder können nur Mitglieder des Vereins werden.
 Eine Wiederwahl ist zulässig.
 Der Vorstand bleibt solange im Amt, bis ein neuer Vorstand gewählt ist.
 Bei Beendigung der Mitgliedschaft im Verein endet auch das Amt als Vorstand.
+
+Besteht der Vorstand aus weniger als zwei Mitgliedern, so sind unverzüglich Nachwahlen
+durchzuführen.
+
+Beschlüsse des Vorstands werden mit der Mehrheit der Stimmen der an der Beschlussfassung
+teilnehmenden Vorstandsmitglieder gefasst. Bei Stimmengleichheit gibt die Stimme
+des Vorsitzenden, bei seiner Abwesenheit die des zweiten Vorsitzenden den Ausschlag.
+
+Der/Die Kassierer/in überwacht die Haushaltsführung und verwaltet unter Beachtung etwaiger
+Vorstandsbeschlüsse das Vermögen des Vereins. Er/Sie hat auf eine sparsame und wirtschaftliche
+Haushaltsführung hinzuwirken. Mit Ablauf des Geschäftsjahres stellt er/sie unverzüglich
+die Abrechnung sowie die Vermögensübersicht und sonstige Unterlagen von wirtschaftlichem
+Belang den Finanzprüfern des Vereins zur Verfügung.
+
+Die Vorstandsmitglieder sind ehrenamtlich tätig.
 
 # §13 Kassenprüfung
 Die Mitgliederversammlung wählt für die Dauer von einem Jahr eine/n Kassenprüfer/in.
