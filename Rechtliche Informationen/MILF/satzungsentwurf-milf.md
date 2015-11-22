@@ -1,5 +1,5 @@
 # §1 Name und Sitz
-Der Verein führt den Namen Offene Netze Münster.
+Der Verein führt den Namen Förderverein freie Infrastruktur
 
 
 Er soll in das Vereinsregister eingetragen werden und trägt dann den Zusatz "e.V."
