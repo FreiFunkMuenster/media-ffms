@@ -1,19 +1,19 @@
 # §1 Name und Sitz
-Der Verein führt den Namen Förderverein freie Infrastruktur
-
+Der Verein führt den Namen Förderverein freie Infrastruktur.
 
 Er soll in das Vereinsregister eingetragen werden und trägt dann den Zusatz "e.V."
+
 Der Sitz des Vereins ist Münster.
 
 # §2 Geschäftsjahr
-Das Geschäftsjahr ist das Kalenderjahr. Das erste Geschäftsjahr beginnt mit der Eintragung
-des Vereins in das Vereinsregister und endet am 31.12. diesen Jahres.
+Das Geschäftsjahr ist das Kalenderjahr. Das erste Geschäftsjahr beginnt mit der Eintragung des Vereins in das Vereinsregister und endet am 31.12. diesen Jahres.
 
 # §3 Zweck des Vereins
-Der Verein verfolgt ausschließlich und unmittelbar  gemeinnützige  Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung.
+Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung.
 
 Zweck des Vereins ist die Förderung von Wissenschaft und Forschung, Volks- und Berufsbildung, Kunst und Kultur sowie Bürgerschaftlichem Engengement.
-Der Satzungszweck wird verwirklicht insbesondere durch durch 
+
+Der Satzungszweck wird verwirklicht insbesondere durch 
 
 * Erforschung und Weiterentwicklung von  freien Datennetzwerke sowohl auf technischer als auch gesellschaftlicher Ebene. 
 * Schaffung von freien Daten-Netzwerken ("Bürgernetzen").
@@ -24,7 +24,7 @@ Der Satzungszweck wird verwirklicht insbesondere durch durch
 
 # §4 Selbstlose Tätigkeit
 Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche Ziele. 
-Die Zahlung Aufwandsentschädigungen an Mitglieder des Vorstandes oder anderweitig für den Verein tätige Mitglieder in angemessener Höhe ist zulässig. Niemand darf durch Ausgaben, die dem Zwecke des Vereins fremd sind oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
+Die Zahlung von Aufwandsentschädigungen an Mitglieder des Vorstandes oder anderweitig für den Verein tätige Mitglieder in angemessener Höhe ist zulässig. Niemand darf durch Ausgaben, die dem Zwecke des Vereins fremd sind oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
 
 # §5 Mittelverwendung
 Mittel des Vereins dürfen nur für die satzungsmäßigen Zwecke verwendet werden. Die Mitglieder erhalten keine Zuwendungen aus Mitteln des Vereins.
@@ -35,8 +35,7 @@ Es darf keine Person durch Ausgaben, die dem Zweck der Körperschaft fremd sind,
 # §7 Erwerb der Mitgliedschaft
 Vereinsmitglieder können natürliche Personen oder juristische Personen werden.
 
-Der Aufnahmeantrag ist schriftlich zu stellen.  
-Über den Aufnahmeantrag entscheidet der Vorstand.
+Der Aufnahmeantrag ist schriftlich zu stellen. Über den Aufnahmeantrag entscheidet die Mitgliederversammlung. Die formelle Kommunikation mit den Mitgliedern soll vorwiegend per E-Mail stattfinden. Die Mitglieder sollen dazu eine gültige und regelmäßig gelesene E-Mail-Adresse vorhalten.
 
 Mitglieder des Vereins sind ordentliche Mitglieder, Ehrenmitglieder und Fördermitglieder. Ordentliche Mitglieder und Ehrenmitglieder sind aktiv und in der Mitgliederversammlung stimmberechtigt. 
 
@@ -49,10 +48,11 @@ Gegen den ablehnenden Bescheid des Vorstands, der mit Gründen zu versehen ist, 
 # §8 Mitgliedsbeiträge
 Von den Mitgliedern werden Beiträge erhoben. Die Höhe des Jahresbeitrags und dessen Fälligkeit werden von der Mitgliederversammlung bestimmt und in einer Beitragsordnung festgehalten. 
 
-
 # §9 Beendigung der Mitgliedschaft
-Die Mitgliedschaft endet durch Austritt, Ausschluss, Termination, Tod oder Auflösung der juristischen Person.
+Die Mitgliedschaft endet durch Austritt, Ausschluss, Tod oder Auflösung der juristischen Person.
+
 Der Austritt erfolgt durch schriftliche Erklärung gegenüber einem vertretungsberechtigten Vorstandsmitglied. 
+
 Ein Ausschluss kann nur aus wichtigem Grund erfolgen. Wichtige Gründe sind insbesondere ein die Vereinsziele schädigendes Verhalten, die Verletzung satzungsmäßiger Pflichten oder Beitragsrückstände von mindestens einem Jahr. Über den Ausschluss entscheidet der Vorstand. Der Vorstand hat die Vereinsmitglieder über einen Ausschluß eines Vereinsmitglieds zu informieren. Gegen den Ausschluss steht dem Mitglied die Berufung an die Mitgliederversammlung zu, die schriftlich binnen eines Monats an den Vorstand zu richten ist. Die Mitgliederversammlung entscheidet im Rahmen des Vereins endgültig. Dem Mitglied bleibt die Überprüfung der Maßnahme durch Anrufung der ordentlichen Gerichte vorbehalten. Die Anrufung eines ordentlichen Gerichts hat aufschiebende Wirkung bis zur Rechtskraft der gerichtlichen Entscheidung.
 
 # §10 Organe des Vereins
@@ -68,12 +68,15 @@ Der Vorstand ist zur Einberufung einer außerordentlichen Mitgliederversammlung 
 
 Die Mitgliederversammlung wird vom Vorstand unter Einhaltung einer Frist von einem Monat schriftlich unter Angabe der Tagesordnung einberufen. Die Frist beginnt mit dem auf die Absendung des Einladungsschreibens folgenden Tag. Das Einladungsschreiben gilt als den Mitgliedern zugegangen, wenn es an die letzte dem Verein bekannt gegebene Anschrift gerichtet war.
 
-Die Tagesordnung ist zu ergänzen, wenn dies ein Mitglied bis spätestens eine Woche vor dem angesetzten Termin schriftlich beantragt. Die Ergänzung ist zu Beginn der Versammlung bekanntzumachen.
+Die Tagesordnung ist zu Ergänzen, wenn dies ein Mitglied bis spätestens eine Woche vor dem angesetzten Termin schriftlich beantragt. Die Ergänzung ist zu Beginn der Versammlung bekanntzumachen.
+
 Anträge über die Abwahl des Vorstands, über die Änderung der Satzung und über die Auflösung des Vereins, die den Mitgliedern nicht bereits mit der Einladung zur Mitgliederversammlung zugegangen sind, können erst auf der nächsten Mitgliederversammlung beschlossen werden.
+
 Die Mitgliederversammlung ist ohne Rücksicht auf die Zahl der erschienenen Mitglieder beschlussfähig.
+
 Zu Beginn der Mitgliederversammlung ist ein Versammlungsleiter zu wählen.
 Zu Beginn der Mitgliederversammlung ist ein Schriftführer zu wählen.
-Jedes ordentliche Mitglied hat eine Stimme. 
+Jedes ordentliche Mitglied hat eine Stimme.
 Das Stimmrecht kann nur persönlich oder für ein Mitglied unter Vorlage einer schriftlichen Vollmacht ausgeübt werden.
 Bei Abstimmungen entscheidet die einfache Mehrheit der abgegebenen Stimmen.
 Satzungsänderungen und die Auflösung des Vereins können nur mit einer Mehrheit von 2/3 der anwesenden Mitglieder beschlossen werden.
@@ -107,19 +110,19 @@ Die Vorstandsmitglieder sind ehrenamtlich tätig.
 
 # §13 Kassenprüfung
 Die Mitgliederversammlung wählt für die Dauer von einem Jahr eine/n Kassenprüfer/in.
+
 Diese/r darf nicht Mitglied des Vorstands sein.
+
 Eine Wiederwahl ist zulässig.
+
 Aufgabe des Kassenprüfer/-in ist es die Kasse, d.h. Ein- und Ausgaben, auf Korrektheit insbesondere in Bezug auf satzungsgemäße Verwendung der Vereinsmittel.
+
 Der/Die Kassenprüfer/-in erstattet der Mitgliederversammlung Bericht.  
 
 # §14 Transparenzgebot 
-Der Mitglieder und Vorstand sind gehalten über ihre Tätigkeiten transparens herzustellen  und über diese regelmäßig und zeitnah zu berichten. Dies soll in "elektronischer Form" (E-Mail, Forum, Blog) geschehen und allen Mitgliedern zugänglich sein.
+Der Mitglieder und Vorstand sind gehalten über ihre Tätigkeiten Transparenz herzustellen und über diese regelmäßig und zeitnah zu berichten. Dies soll in "elektronischer Form" (E-Mail, Forum, Blog) geschehen und allen Mitgliedern zugänglich sein.
 
-Der Vorstand ist aufgefordert im ersten Jahr des Vereinsbestehens den Verein per Selbstverpflichtung der "Initiative Transparente Zivilgesellschaft" anzuschliessen und die dem ITZ Leitfaden gebotenen Maßnahmen umzusetzen.  
-
-# §15 Symbolik
-
-# §16 Auflösung des Vereins
+# §15 Auflösung des Vereins
 
 Bei Auflösung oder Aufhebung des Vereins fällt das Vermögen der Körperschaft zu gleichen Teilen an den Förderverein Freie Netzwerke e.V. und den Freifunk Rheinland e.V. die es unmittelbar und ausschließlich für den weiteren Ausbau von Freifunk-Netzwerken zu verwenden haben. 
 
