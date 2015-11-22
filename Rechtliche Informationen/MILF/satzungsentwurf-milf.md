@@ -39,7 +39,7 @@ Der Aufnahmeantrag ist schriftlich zu stellen. Über den Aufnahmeantrag entschei
 
 Mitglieder des Vereins sind ordentliche Mitglieder, Ehrenmitglieder und Fördermitglieder. Ordentliche Mitglieder und Ehrenmitglieder sind aktiv und in der Mitgliederversammlung stimmberechtigt. 
 
-Ordentliches Mitglied des Vereins kann jede natürliche Person oder jursitische Person werden, die sich mit den Zielen des Vereins verbunden fühlt und den Verein aktiv fördern will.  
+Ordentliches Mitglied des Vereins kann jede natürliche Person oder juristische Person werden, die sich mit den Zielen des Vereins verbunden fühlt und den Verein aktiv fördern will.  
 
 Fördermitglied des Vereins kann jede natürliche oder juristische Person werden, die sich mit den Zielen des Vereins verbunden fühlt und den Verein finanziell und ideell unterstützen will. Fördermitglieder sind nicht stimmberechtigt. 
 
