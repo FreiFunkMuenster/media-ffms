@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>Sprechfunk Münster</title>
+        <link>https://freifunk-muensterland.de</link>
+        <description>Der Podcast von Freifunk Münster</description>
+        <generator>Feeder 3 3.1.3(2606); Mac OS X Version 10.11.2 (Build 15C50) http://reinventedsoftware.com/feeder/</generator>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <language>de-de</language>
+        <copyright>Freifunk Münster, Sprecher, CC BY-SA 4.0</copyright>
+        <pubDate>Mon, 11 Jan 2016 21:39:57 +0100</pubDate>
+        <lastBuildDate>Mon, 11 Jan 2016 21:39:58 +0100</lastBuildDate>
+        <image>
+            <url>http://ffms-podcast.s3.amazonaws.com/FullSizeRender-144x103.jpg</url>
+            <title>Sprechfunk Münster</title>
+            <link>https://freifunk-muensterland.de</link>
+            <width>144</width>
+            <height>103</height>
+        </image>
+        <atom:link href="http://ffms-podcast.s3.amazonaws.com/ffmsl.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://flattr.com/submit/auto?user_id=mqxq3n&amp;url=https%3A%2F%2Fflattr.com%2Fprofile%2Fingomar&amp;language=de_DE&amp;hidden=1&amp;category=software" rel="payment" type="text/html"/>
+        <itunes:author>Freifunk Münster</itunes:author>
+        <itunes:subtitle>Der Podcast von Freifunk Münster</itunes:subtitle>
+        <itunes:keywords>münster,freifunk,wlan,warpzone,münsterland</itunes:keywords>
+        <itunes:image href="http://ffms-podcast.s3.amazonaws.com/matelight-quadrat.jpg"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:owner>
+            <itunes:name>Ingomar Otter</itunes:name>
+            <itunes:email>iotter@mac.com</itunes:email>
+        </itunes:owner>
+        <itunes:block>no</itunes:block>
+        <itunes:category text="Government &amp; Organizations">
+            <itunes:category text="Non-Profit"/>
+        </itunes:category>
+        <item>
+            <title>SF02 - Angrillen Freifunk Rheinland</title>
+            <description><![CDATA[Anlässlich des Angrillens 2016 des Freifunk Rheinland e.V. am 09.01.2016 fuhren mehrere Freifunker aus dem Münsterland nach Essen um im Steeler Wasserturm bei Grillgut und netter Atmosphäre Erfahrungen auszutauschen und sich mal persönlich kennenzulernen. Da Simon spontan das Aufnahmegerät eingepackt hatte, konnten wir, leider ohne Ingomar ein paar O-Töne aufnehmen. Vor das Mikrophone traten Michael Herzog, der sein Video-Projekt Freifunkthek vorstellte sowie dakrys, Phillip Berndroth und TschäggyWasa aus dem Vorstand des Veranstalters über die Freifunk Rheinland Routing Days und die Vorstandsarbeit im Allgemeinen.
+<br />Mit @todendah, @lostincoding, @des_cilla
+<br />Gäste:
+<ul>
+<li>Michael Herzog (@senorkaffee) https://youtube.com/freifunkthek</li>
+<li>David Krystof (@dakrys) </li>
+<li>Philip Berndroth (@pberndro)  </li>
+<li>Reiner Gutowski (@tschaeggywasa)</li>
+</ul>]]></description>
+            <pubDate>Mon, 11 Jan 2016 21:39:43 +0100</pubDate>
+            <enclosure url="http://ffms-podcast.s3.amazonaws.com/sprechfunk2.mp3" length="18239765" type="audio/mpeg"/>
+            <guid isPermaLink="false">E1EF47F2-0904-41A3-A2DD-F99974F54DD9</guid>
+            <itunes:author>Freifunk Münster</itunes:author>
+            <itunes:summary><![CDATA[Anlässlich des Angrillens 2016 des Freifunk Rheinland e.V. am 09.01.2016 fuhren mehrere Freifunker aus dem Münsterland nach Essen um im Steeler Wasserturm bei Grillgut und netter Atmosphäre Erfahrungen auszutauschen und sich mal persönlich kennenzulernen. Da Simon spontan das Aufnahmegerät eingepackt hatte, konnten wir, leider ohne Ingomar ein paar O-Töne aufnehmen. Vor das Mikrophone traten Michael Herzog, der sein Video-Projekt Freifunkthek vorstellte sowie dakrys, Phillip Berndroth und TschäggyWasa aus dem Vorstand des Veranstalters über die Freifunk Rheinland Routing Days und die Vorstandsarbeit im Allgemeinen.
+
+Mit @todendah, @lostincoding, @des_cilla
+
+Gäste:
+Michael Herzog (@senorkaffee) https://youtube.com/freifunkthek
+David Krystof (@dakrys) 
+Philip Berndroth (@pberndro)  
+Reiner Gutowski (@tschaeggywasa) ]]></itunes:summary>
+            <itunes:image href="http://ffms-podcast.s3.amazonaws.com/sprechfunk-episode-cover.jpg"/>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>Freifunk Münster auf dem 32C3</title>
+            <description><![CDATA[<p>Tim (@todendah) hat uns auf dem Chaos-Communication-Congress einfach mal den Podcaster-Tisch im Sendezentrum gebucht und uns dann eröffnet das wir einen Termin haben :-)
+<br />Und so haben Tim, Simon (@descilla), Felix (@lostincoding) und Ingomar (@kgbvax) eine Stunde über Freifunk in Münster geredet und dies dank der tollen Technik im Sendezentrum in die Welt gestreamt.
+<br />Entsprechend der 'ausführlichen Vorbereitung' geht es thematisch durchaus querbeet: 
+<br />Themen:
+<br />* Congress
+<br />* Freifunk auf dem 32C3
+<br />* Freifunk in Münster
+<br />* Münster und Münsterland
+<br />* Organisation
+<br />* Umstrukturierung Backbone
+<br />* Richtfunk
+<br />und so</p>]]></description>
+            <pubDate>Tue, 29 Dec 2015 19:43:00 +0100</pubDate>
+            <enclosure url="http://ffms-podcast.s3.amazonaws.com/freifunk-ms-32c3__.mp3" length="37384459" type="audio/mpeg"/>
+            <guid isPermaLink="false">F0523D9B-7BC7-450A-A929-ADB2B6951600</guid>
+            <itunes:subtitle>Die Stunde Null auf dem 32C3</itunes:subtitle>
+            <itunes:image href="http://ffms-podcast.s3.amazonaws.com/32c3-simon-sendezentrum-3000px.jpg"/>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+    </channel>
+</rss>
