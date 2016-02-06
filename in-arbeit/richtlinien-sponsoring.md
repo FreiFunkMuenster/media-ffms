@@ -55,3 +55,9 @@ Vereinbarungen zum Sponsoring werden von der entsprechenden Community veröffent
 * Form von Sponsoring
 TODO
 
+
+***
+Redaktion:
+* [Ingomar Otter](mailto:vax@kgbvax.net), Freifunk Münster
+Stand 6. Feb 2016
+
