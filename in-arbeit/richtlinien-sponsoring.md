@@ -14,27 +14,27 @@ Die folgenden Leitlinien sollen dazu dienen konkrete Hinweise zu geben welche Fo
 
 # Leitlinien zu Sponsoring
 
-* Assoziation
+## Assoziation
 Aussagen, die Freifunk oder lokale Freifunk Communities durch eine Organisation/ein Unternehmen in einer Art vereinnnahmen oder entsprechenden Eindruck beim Leser erzeugen, dass Freifunk etwas anderes ist als ein freies Bürgernetz, sind zu unterlassen.
-** Ja: "Mit Unterstützung von/durch", "wird unterstützt von", "gefördert durch" und vergleichbares
-** Nein: "ein Projekt von", "powered by", "eine Aktion von" und ähnliches, sofern sich dies auf Freifunk bezieht.
+* Ja: "Mit Unterstützung von/durch", "wird unterstützt von", "gefördert durch" und vergleichbares
+* Nein: "ein Projekt von", "powered by", "eine Aktion von" und ähnliches, sofern sich dies auf Freifunk bezieht.
 Hierbei ist jeweils die Gesamtaussage zu betrachten. Sofern z.B. ein Unternehmen einen Zugang (Uplink) an einem spezifischen Standort bereitstellt, ist an dieser Stelle ein "bereitgestellt durch" inhaltlich richtig und somit auch nicht zu bemängeln.
 
-* Verwendung der Wort-/Bildmarke
+## Verwendung der Wort-/Bildmarke
 Die Verwendung des Namens und des Logos der Community, des Begriffes Freifunk sowie der entsprechenden Bildmarken müssen zwecks Vermeidung von Missverständnissen vor jeder Nutzung durch den Förderer in seiner Kommunikation abgestimmt werden.
 
-* Werbung im Freifunk Netz
-** Es gibt keine Vorschaltseiten.
-** Der Name des ausgestrahlten Netzwerkes (SSID) ist "Freifunk".
-** Die Benennung von Freifunk Routern (diese wird auf den entsprechenden Karten angezeigt) liegt beim Eigentümer des entsprechenden Routers.
+## Werbung im Freifunk Netz
+* Es gibt keine Vorschaltseiten.
+* Der Name des ausgestrahlten Netzwerkes (SSID) ist "Freifunk".
+* Die Benennung von Freifunk Routern (diese wird auf den entsprechenden Karten angezeigt) liegt beim Eigentümer des entsprechenden Routers.
 
-* Nennung von Sponsoren in digitalen Medien
+## Nennung von Sponsoren in digitalen Medien
 Communities können & sollen Sponsoren & Förderer bennen, sowohl als Einzelmeldung als auch Dauerhaft.
 
-* Transparenzgebot
+## Transparenzgebot
 Vereinbarungen zum Sponsoring werden von der entsprechenden Community veröffentlicht, idealerweise im Volltext oder zumindest die Kernsätze die Mittelfluss und Mittelverwendung angehen. Dies dient dem Selbstschutz der Community.
 
-* Form von Sponsoring
+## Form von Sponsoring
 TODO
 
 
