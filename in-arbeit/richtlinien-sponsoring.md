@@ -32,8 +32,13 @@ Die Verwendung des Namens und des Logos der Community, des Begriffes Freifunk so
 Communities können & sollen Sponsoren & Förderer bennen, sowohl als Einzelmeldung als auch dauerhaft.
 
 ## Transparenzgebot
-
 Vereinbarungen zum Sponsoring werden von der entsprechenden Community veröffentlicht, idealerweise im Volltext oder zumindest die Kernsätze die Mittelfluss und Mittelverwendung angehen. Dies dient dem Selbstschutz der Community.
 
+## Formen von Sponsoring
+
+### Sponsoring von Infrastruktur
+Zur Funktion von Freifunk sind nicht nur Router sondern auch weitere Infrastruktur wie Server nötig.
+Zur Deckung dieser Kosten erwarten wir eine Fördermitgliedschaft beim Förderverein freie Infrastruktur e.V.
+Bei einmaligen Projektbudgets sollten als Richtwert 20% der Hardwarekosten für den Infrastrukturbetrieb vorgesehen werden.
 
 
