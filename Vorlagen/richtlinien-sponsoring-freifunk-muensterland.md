@@ -37,8 +37,8 @@ Vereinbarungen zum Sponsoring werden von der entsprechenden Community veröffent
 ## Formen von Sponsoring
 
 ### Sponsoring von Infrastruktur
-Zur Funktion von Freifunk sind nicht nur Router sondern auch weitere Infrastruktur wie Server nötig.
-Zur Deckung dieser Kosten erwarten wir eine Fördermitgliedschaft beim Förderverein freie Infrastruktur e.V.
+Zur Funktion von Freifunk sind nicht nur Router sondern auch weitere Infrastruktur wie Server nötig. 
+Zur Deckung dieser Kosten erwarten wir eine Fördermitgliedschaft beim Förderverein freie Infrastruktur e.V. 
 Bei einmaligen Projektbudgets sollten als Richtwert 20% der Hardwarekosten für den Infrastrukturbetrieb vorgesehen werden.
 
 
