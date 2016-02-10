@@ -32,7 +32,9 @@ Die Verwendung des Namens und des Logos der Community, des Begriffes Freifunk so
 Communities können & sollen Sponsoren & Förderer bennen, sowohl als Einzelmeldung als auch dauerhaft.
 
 ## Transparenzgebot
+
 Vereinbarungen zum Sponsoring werden von der entsprechenden Community veröffentlicht, idealerweise im Volltext oder zumindest die Kernsätze die Mittelfluss und Mittelverwendung angehen. Dies dient dem Selbstschutz der Community.
+
 ---
 
 ## Form von Sponsoring
