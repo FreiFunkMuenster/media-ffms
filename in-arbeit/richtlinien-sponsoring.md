@@ -5,7 +5,7 @@ und Organisationen die das Netzwerk realisieren, lebt.
 Dabei geht es nicht nur um das reine Aufstellen von Routern, sondern zu Freifunk gehören auch Dinge wie Öffentlichkeitsarbeit, 
 Information der Nutzer, Beteiligten und Interessenten, sowie Richtfunk und Serverinfrastrukturen.
 
-Zu unserer Freude erhalten wir dabei auch Angebote von Unternehmen, Freifunk zu unterstützen. Diese Unterstützung kann in Form von Sach- oder Geldspenden oder in unterschiedlichen Formen von [Sponsoring](https://de.wikipedia.org/wiki/Sponsoring) geschehen - was wir sehr begrüßen.
+Zu unserer Freude erhalten wir dabei auch Angebote von Unternehmen, Freifunk zu unterstützen - was wir sehr begrüßen. Diese Unterstützung kann unter anderem durch [Sponsoring](https://de.wikipedia.org/wiki/Sponsoring) geschehen.
 
 Das Freifunk Selbstverständnis "Wir verstehen frei als öffentlich zugänglich, nicht kommerziell, im Besitz der Gemeinschaft und unzensiert" zusammen mit der Tatsache das viele Aktive große Mengen Zeit und auch Geld in Freifunk investieren führt dazu das Assoziation mit größeren Strukturen in der Gemeinschaft nicht ablehnend abder durchaus kritisch und aufmerksam betrachtet wird.
 
@@ -33,13 +33,9 @@ Communities können & sollen Sponsoren & Förderer bennen, sowohl als Einzelmeld
 
 ## Transparenzgebot
 Vereinbarungen zum Sponsoring werden von der entsprechenden Community veröffentlicht, idealerweise im Volltext oder zumindest die Kernsätze die Mittelfluss und Mittelverwendung angehen. Dies dient dem Selbstschutz der Community.
+---
 
 ## Form von Sponsoring
 TODO
-
-
-***
-Redaktion:
-* [Ingomar Otter](mailto:vax@kgbvax.net), Freifunk Münster
-Stand 6. Feb 2016
+ 
 
