@@ -26,7 +26,7 @@ Die Verwendung des Namens und des Logos der Community, des Begriffes Freifunk so
 ## Werbung im Freifunk Netz
 * Es gibt keine Vorschaltseiten.
 * Der Name des ausgestrahlten Netzwerkes (SSID) ist "Freifunk".
-* Die Benennung von Freifunk Routern (diese wird auf den entsprechenden Karten angezeigt) liegt beim Eigentümer des entsprechenden Routers.
+* Die Benennung von Freifunk Routern (diese wird auf den entsprechenden Karten angezeigt) ist dem Eigentümer des entsprechenden Routers überlassen.
 
 ## Nennung von Sponsoren in digitalen Medien
 Communities können & sollen Sponsoren & Förderer bennen, sowohl als Einzelmeldung als auch dauerhaft.
