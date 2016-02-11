@@ -16,7 +16,7 @@ Zu unserer Freude erhalten wir dabei auch Angebote von Unternehmen, Freifunk zu 
 
 Das Freifunk Selbstverständnis "Wir verstehen frei als öffentlich zugänglich, nicht kommerziell, im Besitz der Gemeinschaft und unzensiert" zusammen mit der Tatsache das viele Aktive große Mengen Zeit und auch Geld in Freifunk investieren führt dazu das Assoziation mit größeren Strukturen in der Gemeinschaft nicht ablehnend aber durchaus kritisch und aufmerksam betrachtet wird.
 
-Die folgenden Leitlinien sollen konkrete Hinweise zu geben welche Formen des Sponsoring und insbesondere der Assoziation gut und sogar hilfreich sind und welche aus unserer Sicht unakzeptabel sind.
+Die folgenden Leitlinien sollen konkrete Hinweise geben welche Formen des Sponsoring gut und hilfreich sind oder welche aus unserer Sicht nicht akzeptabel sind.
 
 
 # Leitlinien zu Sponsoring
