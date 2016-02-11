@@ -2,7 +2,7 @@
 title: 'Richtlinien Sponsoring Freifunk Münsterland'
 papersize: a4paper
 documentclass: article
-date: 16 Feb 2016
+date: 12 Feb 2016
 margin-left: 2.41cm
 lang: de
 ---
