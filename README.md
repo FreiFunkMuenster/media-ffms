@@ -1,7 +1,7 @@
 ﻿# media-ffms
 Das Repository "media-ffms" ist unser Lagerort für unsere einheitlichen Stilvorlagen (wie Icons, Logos, Plakate, usw.) und daraus erstellte Flyer, Aufkleber, Vortragsfolien und so weiter.
 
-Über Korrekturen, Ergänzungen und andere Aktualisierungen freuen wir uns sehr! Wir freuen uns ebenso, wenn unsere Datein als Vorlagen für eure Community dienen können, denn wir haben und bedienen uns auch an anderen Communities.
+Über Korrekturen, Ergänzungen und andere Aktualisierungen freuen wir uns sehr! <b>Bitte alle odt-Dokumente auf fodt umstellen, damit sie von Git korrekt versioniert werden können.</b> Wir freuen uns ebenso, wenn unsere Datein als Vorlagen für eure Community dienen können, denn wir haben und bedienen uns auch an anderen Communities.
 
 Für die Nutzung der Dateien in diesem Repository gilt, sofern nicht anders gekennzeichnet:
 
