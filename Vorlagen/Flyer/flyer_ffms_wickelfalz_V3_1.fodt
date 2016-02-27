@@ -1065,7 +1065,7 @@
    </draw:frame>
    <text:p text:style-name="P62"/>
    <text:p text:style-name="P6"><text:span text:style-name="T24">Freifunk is</text:span><text:span text:style-name="T25">t</text:span></text:p>
-   <text:p text:style-name="P17">ein öffentliches, von Bürgern organisiertes freies WLAN. <text:span text:style-name="T65">Das</text:span> Ziel ist es, eine <text:span text:style-name="T59">umfangreiche</text:span> Abdeckung zu erreichen, sodass überall freies WLAN zur Verfügung steht.</text:p>
+   <text:p text:style-name="P17">ein öffentliches, von Bürgern organisiertes, freies WLAN. <text:span text:style-name="T65">Das</text:span> Ziel ist es, eine <text:span text:style-name="T59">umfangreiche</text:span> Abdeckung zu erreichen, sodass überall freies WLAN zur Verfügung steht.</text:p>
    <text:p text:style-name="P21"/>
    <text:p text:style-name="P21">Wir verstehen frei als:</text:p>
    <text:p text:style-name="P21"><text:s/>- nicht kommerziell und unzensiert</text:p>
