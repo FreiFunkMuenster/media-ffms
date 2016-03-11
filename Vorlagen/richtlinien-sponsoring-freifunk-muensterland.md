@@ -15,7 +15,7 @@ Information der Nutzer, Beteiligten und Interessenten, sowie Richtfunk und Serve
 
 Zu unserer Freude erhalten wir dabei auch Angebote von Unternehmen, Freifunk zu unterstützen - was wir sehr begrüßen. Diese Unterstützung kann unter anderem durch [Sponsoring](https://de.wikipedia.org/wiki/Sponsoring) geschehen. 
 
-Freifunk ist ein freies Bürger-Netz und wir verstehen "frei" als öffentlich zugänglich, nicht kommerziell, im Besitz der Gemeinschaft und unzensiert. Viele aktive Freifunker investieren große Mengen Zeit und auch Geld in Freifunk und fühlen sich daher auch emotional sehr verbunden. Beides führt dazu, dass eine Assoziation mit größeren Strukturen in der Freifunk-Gemeinschaft nicht ablehnend, aber durchaus kritisch und aufmerksam betrachtet wird.
+Freifunk ist ein freies Bürger-Netz und wir verstehen "frei" als öffentlich zugänglich, nicht kommerziell, im Besitz der Gemeinschaft und unzensiert. Viele aktive Freifunker investieren viel Zeit und auch Geld in Freifunk und fühlen sich daher sehr mit dem Projekt verbunden. Beides führt dazu, dass eine Assoziation mit größeren Strukturen in der Freifunk-Gemeinschaft nicht ablehnend, aber durchaus kritisch und aufmerksam betrachtet wird.
 
 Die folgenden Leitlinien sollen konkrete Hinweise geben, welche Formen des Sponsoring gut und hilfreich sind und welche aus unserer Sicht nicht akzeptabel sind.
 
@@ -43,9 +43,10 @@ Communities können und sollen Sponsoren und Förderer benennen, sowohl als Einz
 Vereinbarungen zum Sponsoring werden von der entsprechenden Community veröffentlicht, idealerweise im Volltext oder zumindest die Kernsätze, die Mittelfluss und Mittelverwendung angehen. Dies dient dem Selbstschutz der Community.
 
 ## Formen von Sponsoring
-
+Beispiele für willkommene Fördermöglichkeiten:
 * Bereitstellung von Internetzugängen (Uplink)
 * Anschaffung oder Finanzierung von Zugangspunkten (Freifunk-Routern)
+* Unterstützung für Freifunk-Werbemittel (z.B. Übernahme von Druckkosten)
 * Förderung konkreter Freifunk-Projekte
 * Sponsoring von Infrastruktur
 
