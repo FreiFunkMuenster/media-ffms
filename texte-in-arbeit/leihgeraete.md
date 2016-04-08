@@ -1,7 +1,3 @@
-1d 4 
-@LostInCoding und meine Wenigkeit haben soeben kollaborativ einen Text erarbeitet. Bei diesem Artikel ist die Wiki-Funktion aktiviert. Arbeitet gerne mit! Der Artikel soll in Kürze auf die Homepage!
-
-Titelvorschläge
 
 Wir haben nichts zu verschenken! Aber was zu verleihen
 Leiht euch was!
@@ -9,7 +5,8 @@ Vorschlag von @MPW: „Freifunk mal ausprobieren“
 Vorschalg @dippydipp: " "Probier's aus!" und "Mach mit!" "
 Inhalt
 
-Für diverse Projekte ist in der Planungsphase noch nicht gewiss, welche Hardware letztendlich wirklich gebraucht wird. Oder Ihr wollt einfach mal Freifunk ausprobieren?!
+
+Für viele Projekte ist in der Planungsphase noch nicht gewiss, welche Hardware letztendlich wirklich gebrauch wird. Oder Ihr wollt einfach mal Freifunk ausprobieren?!
 Dafür haben wir eine Reihe von Testgeräten, die wir gerne verleihen (Übersicht im Wiki). Wenn ihr also noch kein Freifunk habt oder euch bei einem neuen Projekt unsicher seid welche Hardware ihr braucht, könnt ihr zunächst mit diesen Leihgeräten ausprobieren ob die Installation wie gewünscht funktioniert.
 Im Folgenden stellen wir die gängigsten Modelle vor. Möchtet ihr ein Gerät ausliehen, kommt zu unserem Treffen, setzt euch mit dem Eigentümer des Gerätes in Verbindung oder erstellt einen Betrag in unserem Forum. Solltet ihr selber Geräte zum Verleihen haben, würden wir uns freuen, wenn ihr diese in der Leihgeräteliste ergänzt.
 

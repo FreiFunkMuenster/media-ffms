@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2015-07-10T10:10:31.706000000</meta:creation-date><dc:date>2016-03-24T01:23:34</dc:date><meta:editing-duration>PT8H5M31S</meta:editing-duration><meta:editing-cycles>82</meta:editing-cycles><meta:generator>LibreOffice/3.5$Linux_x86 LibreOffice_project/350m1$Build-2</meta:generator><meta:print-date>2015-07-10T13:26:34.725000000</meta:print-date><dc:creator>Matthias Walther</dc:creator><meta:document-statistic meta:table-count="0" meta:image-count="5" meta:object-count="0" meta:page-count="2" meta:paragraph-count="66" meta:word-count="694" meta:character-count="5237" meta:non-whitespace-character-count="4599"/></office:meta>
+<office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta><meta:creation-date>2015-07-10T10:10:31.706000000</meta:creation-date><dc:date>2016-04-08T09:24:37.002168000</dc:date><meta:editing-duration>PT8H8M29S</meta:editing-duration><meta:editing-cycles>83</meta:editing-cycles><meta:generator>LibreOffice/5.0.0.5$MacOSX_X86_64 LibreOffice_project/1b1a90865e348b492231e1c451437d7a15bb262b</meta:generator><meta:print-date>2015-07-10T13:26:34.725000000</meta:print-date><meta:document-statistic meta:table-count="0" meta:image-count="5" meta:object-count="0" meta:page-count="2" meta:paragraph-count="66" meta:word-count="692" meta:character-count="5234" meta:non-whitespace-character-count="4598"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="int">22622</config:config-item>
-   <config:config-item config:name="ViewAreaLeft" config:type="int">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="int">20805</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="int">8749</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">32507</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">8927</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">12423</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">7839</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="int">2591</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="int">27182</config:config-item>
-     <config:config-item config:name="VisibleLeft" config:type="int">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="int">22622</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="int">20803</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="int">31369</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">12104</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">34844</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">8927</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">32507</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">21348</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">40344</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -28,73 +28,87 @@
    </config:config-item-map-indexed>
   </config:config-item-set>
   <config:config-item-set config:name="ooo:configuration-settings">
-   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
-   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
-   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
-   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
-   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
-   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">hgH+/01YMzc1AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpNWDM3NQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMArAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9TVgzNzUKb3JpZW50YXRpb249UG9ydHJhaXQKY29waWVzPTEKbWFyZ2luZGFqdXN0bWVudD0wLDAsMCwwCmNvbG9yZGVwdGg9MjQKcHNsZXZlbD0wCnBkZmRldmljZT0xCmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4RGF0YQpQYWdlU2l6ZTpMZXR0ZXIARHVwbGV4Ok5vbmUAABIAQ09NUEFUX0RVUExFWF9NT0RFCgBEVVBMRVhfT0ZG</config:config-item>
-   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterName" config:type="string">MX375</config:config-item>
-   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintFaxName" config:type="string"/>
-   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
    <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
-   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
-   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
    <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">4gD+/09mZmljZWpldCA2NTAwIEU3MTBuLXogMgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAT2ZmaWNlamV0IDY1MDAgRTcxMG4tegAAAAAAAAAAAAAWAAQABAAAAAAAAAAEAAhSAAAEdAAAAAAAABIAQ09NUEFUX0RVUExFWF9NT0RFDgBEVVBMRVhfVU5LTk9XTg==</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">341323</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string">Officejet 6500 E710n-z 2</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="Rsid" config:type="int">341323</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
    <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">false</config:config-item>
   </config:config-item-set>
  </office:settings>
  <office:scripts>
@@ -122,7 +136,7 @@
    <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
-   <style:text-properties style:use-window-font-color="true" fo:font-size="12pt" fo:language="de" fo:country="DE" style:letter-kerning="true" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
+   <style:text-properties style:use-window-font-color="true" style:font-name="Times New Roman" fo:font-size="12pt" fo:language="de" fo:country="DE" style:letter-kerning="true" style:font-name-asian="SimSun" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Mangal" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
   </style:default-style>
   <style:default-style style:family="paragraph">
    <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="1.27cm" style:writing-mode="lr-tb"/>
@@ -136,49 +150,49 @@
   </style:default-style>
   <style:style style:name="Standard" style:family="paragraph" style:class="text"/>
   <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
-   <style:paragraph-properties loext:contextual-spacing="false" fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" fo:keep-with-next="always"/>
-   <style:text-properties style:font-name="Arial" fo:font-size="14pt" style:font-name-asian="Microsoft YaHei" style:font-size-asian="14pt" style:font-name-complex="Mangal" style:font-size-complex="14pt"/>
+   <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="Microsoft YaHei" style:font-family-asian="&apos;Microsoft YaHei&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Mangal" style:font-family-complex="Mangal" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
   </style:style>
   <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
-   <style:paragraph-properties loext:contextual-spacing="false" fo:margin-top="0cm" fo:margin-bottom="0.212cm"/>
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false"/>
   </style:style>
   <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
-   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Mangal1"/>
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Mangal1" style:font-family-complex="Mangal"/>
   </style:style>
   <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
-   <style:paragraph-properties loext:contextual-spacing="false" fo:margin-top="0.212cm" fo:margin-bottom="0.212cm" text:number-lines="false" text:line-number="0"/>
-   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Mangal1" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+   <style:paragraph-properties fo:margin-top="0.212cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Mangal1" style:font-family-complex="Mangal" style:font-size-complex="12pt" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
    <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
-   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Mangal1"/>
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Mangal1" style:font-family-complex="Mangal"/>
   </style:style>
   <style:style style:name="Heading_20_3" style:display-name="Heading 3" style:family="paragraph" style:parent-style-name="Heading" style:default-outline-level="" style:class="text"/>
   <style:style style:name="Frame_20_contents" style:display-name="Frame contents" style:family="paragraph" style:parent-style-name="Standard" style:default-outline-level="" style:class="extra"/>
   <style:style style:name="Quotations" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
-   <style:paragraph-properties loext:contextual-spacing="false" fo:margin="100%" fo:margin-left="1cm" fo:margin-right="1cm" fo:margin-top="0cm" fo:margin-bottom="0.499cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:paragraph-properties fo:margin-left="1cm" fo:margin-right="1cm" fo:margin-top="0cm" fo:margin-bottom="0.499cm" loext:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
   </style:style>
   <style:style style:name="Title" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:class="chapter">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties fo:font-size="28pt" fo:font-weight="bold" style:font-size-asian="28pt" style:font-weight-asian="bold" style:font-size-complex="28pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="Subtitle" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:class="chapter">
-   <style:paragraph-properties loext:contextual-spacing="false" fo:margin-top="0.106cm" fo:margin-bottom="0.212cm" fo:text-align="center" style:justify-single-word="false"/>
+   <style:paragraph-properties fo:margin-top="0.106cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties fo:font-size="18pt" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
   </style:style>
   <style:style style:name="Heading_20_1" style:display-name="Heading 1" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="1" style:class="text">
-   <style:paragraph-properties loext:contextual-spacing="false" fo:margin-top="0.423cm" fo:margin-bottom="0.212cm"/>
+   <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false"/>
    <style:text-properties fo:font-size="130%" fo:font-weight="bold" style:font-size-asian="130%" style:font-weight-asian="bold" style:font-size-complex="130%" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="Heading_20_2" style:display-name="Heading 2" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="2" style:class="text">
-   <style:paragraph-properties loext:contextual-spacing="false" fo:margin-top="0.353cm" fo:margin-bottom="0.212cm"/>
+   <style:paragraph-properties fo:margin-top="0.353cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false"/>
    <style:text-properties fo:font-size="115%" fo:font-weight="bold" style:font-size-asian="115%" style:font-weight-asian="bold" style:font-size-complex="115%" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="Internet_20_link" style:display-name="Internet link" style:family="text">
    <style:text-properties fo:color="#000080" fo:language="zxx" fo:country="none" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
   </style:style>
   <style:style style:name="Bullet_20_Symbols" style:display-name="Bullet Symbols" style:family="text">
-   <style:text-properties style:font-name="OpenSymbol" style:font-name-asian="OpenSymbol" style:font-name-complex="OpenSymbol"/>
+   <style:text-properties style:font-name="OpenSymbol" fo:font-family="OpenSymbol" style:font-charset="x-symbol" style:font-name-asian="OpenSymbol" style:font-family-asian="OpenSymbol" style:font-charset-asian="x-symbol" style:font-name-complex="OpenSymbol" style:font-family-complex="OpenSymbol" style:font-charset-complex="x-symbol"/>
   </style:style>
   <style:style style:name="Frame" style:family="graphic">
    <style:graphic-properties text:anchor-type="paragraph" svg:x="0cm" svg:y="0cm" fo:margin-left="0.201cm" fo:margin-right="0.201cm" fo:margin-top="0.201cm" fo:margin-bottom="0.201cm" style:wrap="parallel" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph-content" style:horizontal-pos="center" style:horizontal-rel="paragraph-content" fo:padding="0.15cm" fo:border="0.06pt solid #000000"/>
@@ -260,14 +274,20 @@
    <style:text-properties fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
   </style:style>
   <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:text-align="start" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#dc0067" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Roboto" fo:font-size="12pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-name-asian="SimSun" style:font-size-asian="12pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="12pt" style:language-complex="ar" style:country-complex="SA" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+  </style:style>
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
    <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" fo:break-before="column">
     <style:tab-stops>
      <style:tab-stop style:position="7.666cm"/>
     </style:tab-stops>
    </style:paragraph-properties>
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#dc0067" style:text-line-through-style="none" style:font-name="Roboto" fo:font-size="12pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-name-asian="SimSun" style:font-size-asian="12pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="12pt" style:language-complex="ar" style:country-complex="SA" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#dc0067" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Roboto" fo:font-size="12pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-name-asian="SimSun" style:font-size-asian="12pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="12pt" style:language-complex="ar" style:country-complex="SA" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
   </style:style>
-  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:text-align="justify" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false">
     <style:tab-stops>
      <style:tab-stop style:position="2.117cm"/>
@@ -275,13 +295,13 @@
    </style:paragraph-properties>
    <style:text-properties style:font-name="Roboto" fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
   </style:style>
-  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:text-align="justify" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:font-name="Roboto" fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
   </style:style>
-  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:text-align="justify" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false">
     <style:tab-stops>
      <style:tab-stop style:position="3.969cm"/>
@@ -289,7 +309,11 @@
    </style:paragraph-properties>
    <style:text-properties style:font-name="Roboto" fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
   </style:style>
-  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:text-align="justify" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties style:font-name="Roboto" fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:text-align="start" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false">
     <style:tab-stops>
      <style:tab-stop style:position="4.523cm"/>
@@ -297,7 +321,7 @@
    </style:paragraph-properties>
    <style:text-properties style:font-name="Roboto" fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
   </style:style>
-  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:text-align="start" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false">
     <style:tab-stops>
      <style:tab-stop style:position="2.117cm"/>
@@ -305,51 +329,51 @@
    </style:paragraph-properties>
    <style:text-properties style:font-name="Roboto" fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
   </style:style>
-  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:text-align="start" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:font-name="Roboto" fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
   </style:style>
-  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:text-align="start" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:font-name="Roboto" fo:font-size="10pt" fo:font-style="normal" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-size-complex="10pt" style:font-style-complex="normal" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
   </style:style>
-  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:text-align="justify" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false">
-    <style:tab-stops/>
-   </style:paragraph-properties>
-   <style:text-properties style:font-name="Roboto" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
-  </style:style>
-  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:text-align="justify" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false">
-    <style:tab-stops>
-     <style:tab-stop style:position="2.117cm"/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-   <style:text-properties style:font-name="Roboto" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
-  </style:style>
   <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:text-align="center" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false">
+   <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:text-align="justify" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:font-name="Roboto" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
   </style:style>
   <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:text-align="justify" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="2.117cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Roboto" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+  </style:style>
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:text-align="center" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Roboto" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+  </style:style>
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:text-align="center" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:font-name="Roboto" fo:font-size="20pt" style:font-size-asian="17.5pt" style:font-size-complex="20pt" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
   </style:style>
-  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:text-align="start" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:font-name="Roboto" fo:font-size="20pt" style:font-size-asian="17.5pt" style:font-size-complex="20pt" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
   </style:style>
-  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:text-align="justify" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false">
     <style:tab-stops>
      <style:tab-stop style:position="2.117cm"/>
@@ -357,13 +381,13 @@
    </style:paragraph-properties>
    <style:text-properties fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
   </style:style>
-  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:text-align="justify" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
   </style:style>
-  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:text-align="justify" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false">
     <style:tab-stops>
      <style:tab-stop style:position="3.969cm"/>
@@ -371,47 +395,33 @@
    </style:paragraph-properties>
    <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
   </style:style>
-  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:text-align="center" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false">
     <style:tab-stops/>
    </style:paragraph-properties>
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#dc0067" style:text-line-through-style="none" style:font-name="Roboto" fo:font-size="12pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-name-asian="SimSun" style:font-size-asian="12pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="12pt" style:language-complex="ar" style:country-complex="SA" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#dc0067" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Roboto" fo:font-size="12pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-name-asian="SimSun" style:font-size-asian="12pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="12pt" style:language-complex="ar" style:country-complex="SA" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
   </style:style>
-  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:text-align="start" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false">
     <style:tab-stops/>
    </style:paragraph-properties>
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#dc0067" style:text-line-through-style="none" style:font-name="Roboto" fo:font-size="12pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-name-asian="SimSun" style:font-size-asian="12pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="12pt" style:language-complex="ar" style:country-complex="SA" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#dc0067" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Roboto" fo:font-size="12pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-name-asian="SimSun" style:font-size-asian="12pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="12pt" style:language-complex="ar" style:country-complex="SA" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
   </style:style>
-  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:text-align="start" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false">
     <style:tab-stops>
      <style:tab-stop style:position="2.117cm"/>
     </style:tab-stops>
    </style:paragraph-properties>
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#dc0067" style:text-line-through-style="none" style:font-name="Roboto" fo:font-size="12pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-name-asian="SimSun" style:font-size-asian="12pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="12pt" style:language-complex="ar" style:country-complex="SA" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
-  </style:style>
-  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:text-align="justify" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false">
-    <style:tab-stops>
-     <style:tab-stop style:position="3.969cm"/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#dc0067" style:text-line-through-style="none" style:font-name="Roboto" fo:font-size="20pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-name-asian="SimSun" style:font-size-asian="20pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="20pt" style:language-complex="ar" style:country-complex="SA" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
-  </style:style>
-  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:text-align="start" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false">
-    <style:tab-stops>
-     <style:tab-stop style:position="4.523cm"/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#dc0067" style:text-line-through-style="none" style:font-name="Roboto" fo:font-size="20pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-name-asian="SimSun" style:font-size-asian="20pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="20pt" style:language-complex="ar" style:country-complex="SA" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#dc0067" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Roboto" fo:font-size="12pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-name-asian="SimSun" style:font-size-asian="12pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="12pt" style:language-complex="ar" style:country-complex="SA" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
   </style:style>
   <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:text-align="center" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false">
-    <style:tab-stops/>
+   <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:text-align="justify" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="2.117cm"/>
+    </style:tab-stops>
    </style:paragraph-properties>
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#dc0067" style:text-line-through-style="none" style:font-name="Roboto" fo:font-size="20pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-name-asian="SimSun" style:font-size-asian="20pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="20pt" style:language-complex="ar" style:country-complex="SA" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#dc0067" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Roboto" fo:font-size="12pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-name-asian="SimSun" style:font-size-asian="12pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="12pt" style:language-complex="ar" style:country-complex="SA" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
   </style:style>
   <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:text-align="justify" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false">
@@ -419,21 +429,43 @@
      <style:tab-stop style:position="3.969cm"/>
     </style:tab-stops>
    </style:paragraph-properties>
-   <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#dc0067" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Roboto" fo:font-size="20pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-name-asian="SimSun" style:font-size-asian="20pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="20pt" style:language-complex="ar" style:country-complex="SA" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
   </style:style>
   <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:text-align="start" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="4.523cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#dc0067" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Roboto" fo:font-size="20pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-name-asian="SimSun" style:font-size-asian="20pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="20pt" style:language-complex="ar" style:country-complex="SA" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+  </style:style>
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:text-align="center" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#dc0067" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Roboto" fo:font-size="20pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-name-asian="SimSun" style:font-size-asian="20pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="20pt" style:language-complex="ar" style:country-complex="SA" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+  </style:style>
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:text-align="justify" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="3.969cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+  </style:style>
+  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:text-align="center" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties fo:font-size="20pt" style:font-size-asian="20pt" style:font-size-complex="20pt" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
   </style:style>
-  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:text-align="start" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
   </style:style>
-  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:text-align="start" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false">
     <style:tab-stops>
      <style:tab-stop style:position="2.117cm"/>
@@ -441,94 +473,70 @@
    </style:paragraph-properties>
    <style:text-properties fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
   </style:style>
-  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:text-align="justify" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent">
-    <style:background-image/>
+  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:text-align="justify" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false">
+    <style:tab-stops/>
    </style:paragraph-properties>
-   <style:text-properties style:font-name="Roboto" fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+   <style:text-properties fo:color="#00000a" style:font-name="Roboto" fo:font-size="10pt" fo:language="de" fo:country="DE" style:font-name-asian="SimSun" style:font-size-asian="10pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Calibri" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
   </style:style>
-  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties loext:contextual-spacing="false" fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:line-height-at-least="0.529cm" fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none">
+  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:line-height-at-least="0.529cm" fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none">
     <style:tab-stops>
      <style:tab-stop style:position="4.523cm"/>
     </style:tab-stops>
    </style:paragraph-properties>
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#00000a" style:text-line-through-style="none" style:font-name="Roboto" fo:font-size="10pt" fo:letter-spacing="normal" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10pt" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#00000a" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Roboto" fo:font-size="10pt" fo:letter-spacing="normal" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10pt" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
   </style:style>
-  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties loext:contextual-spacing="false" fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:line-height-at-least="0.529cm" fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none">
+  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:line-height-at-least="0.529cm" fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none">
     <style:tab-stops>
      <style:tab-stop style:position="4.523cm"/>
     </style:tab-stops>
    </style:paragraph-properties>
    <style:text-properties fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
   </style:style>
-  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties loext:contextual-spacing="false" fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:line-height-at-least="0.529cm" fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none">
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:line-height-at-least="0.529cm" fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none">
     <style:tab-stops>
      <style:tab-stop style:position="4.523cm"/>
     </style:tab-stops>
    </style:paragraph-properties>
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#dc0067" style:text-line-through-style="none" style:font-name="Roboto" fo:font-size="12pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-name-asian="SimSun" style:font-size-asian="12pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="12pt" style:language-complex="ar" style:country-complex="SA" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#dc0067" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Roboto" fo:font-size="12pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-name-asian="SimSun" style:font-size-asian="12pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="12pt" style:language-complex="ar" style:country-complex="SA" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
   </style:style>
-  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties loext:contextual-spacing="false" fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:line-height-at-least="0.529cm" fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none">
+  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:line-height-at-least="0.529cm" fo:text-align="justify" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none">
     <style:tab-stops>
      <style:tab-stop style:position="4.523cm"/>
     </style:tab-stops>
    </style:paragraph-properties>
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#dc0067" style:text-line-through-style="none" style:font-name="Roboto" fo:font-size="12pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-name-asian="SimSun" style:font-size-asian="12pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="12pt" style:language-complex="ar" style:country-complex="SA" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#dc0067" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Roboto" fo:font-size="12pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-name-asian="SimSun" style:font-size-asian="12pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="12pt" style:language-complex="ar" style:country-complex="SA" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
   </style:style>
-  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties loext:contextual-spacing="false" fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:line-height-at-least="0.529cm" fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none">
+  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:line-height-at-least="0.529cm" fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none">
     <style:tab-stops>
      <style:tab-stop style:position="4.523cm"/>
     </style:tab-stops>
    </style:paragraph-properties>
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#00000a" style:font-name="Roboto" fo:font-size="10pt" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10pt" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
   </style:style>
-  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties loext:contextual-spacing="false" fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:line-height-at-least="0.529cm" fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none">
-    <style:tab-stops>
-     <style:tab-stop style:position="4.523cm"/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#00000a" style:text-line-through-style="none" style:font-name="Roboto" fo:font-size="10pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-name-asian="SimSun" style:font-size-asian="10pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
-  </style:style>
-  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties loext:contextual-spacing="false" fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:line-height-at-least="0.529cm" fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none">
-    <style:tab-stops>
-     <style:tab-stop style:position="4.523cm"/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#00000a" style:text-line-through-style="none" style:font-name="Roboto" fo:font-size="10pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-name-asian="SimSun" style:font-size-asian="10pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
-  </style:style>
-  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties loext:contextual-spacing="false" fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:line-height-at-least="0.529cm" fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none">
-    <style:tab-stops>
-     <style:tab-stop style:position="4.523cm"/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-   <style:text-properties fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
-  </style:style>
   <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties loext:contextual-spacing="false" fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:line-height-at-least="0.529cm" fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none">
+   <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:line-height-at-least="0.529cm" fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none">
     <style:tab-stops>
      <style:tab-stop style:position="4.523cm"/>
     </style:tab-stops>
    </style:paragraph-properties>
-   <style:text-properties fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#00000a" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Roboto" fo:font-size="10pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-name-asian="SimSun" style:font-size-asian="10pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
   </style:style>
   <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties loext:contextual-spacing="false" fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:line-height-at-least="0.529cm" fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none">
+   <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:line-height-at-least="0.529cm" fo:text-align="justify" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none">
     <style:tab-stops>
      <style:tab-stop style:position="4.523cm"/>
     </style:tab-stops>
    </style:paragraph-properties>
-   <style:text-properties fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#00000a" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Roboto" fo:font-size="10pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-name-asian="SimSun" style:font-size-asian="10pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
   </style:style>
   <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties loext:contextual-spacing="false" fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:line-height-at-least="0.529cm" fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none">
+   <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:line-height-at-least="0.529cm" fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none">
     <style:tab-stops>
      <style:tab-stop style:position="4.523cm"/>
     </style:tab-stops>
@@ -536,80 +544,48 @@
    <style:text-properties fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
   </style:style>
   <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties loext:contextual-spacing="false" fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:line-height-at-least="0.529cm" fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none">
+   <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:line-height-at-least="0.529cm" fo:text-align="justify" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none">
     <style:tab-stops>
      <style:tab-stop style:position="4.523cm"/>
     </style:tab-stops>
    </style:paragraph-properties>
    <style:text-properties fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
   </style:style>
-  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties loext:contextual-spacing="false" fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:line-height-at-least="0.529cm" fo:text-align="justify" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none">
-    <style:tab-stops>
-     <style:tab-stop style:position="4.523cm"/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-   <style:text-properties fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
-  </style:style>
-  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties loext:contextual-spacing="false" fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:line-height-at-least="0.529cm" fo:text-align="justify" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none">
-    <style:tab-stops>
-     <style:tab-stop style:position="4.523cm"/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-   <style:text-properties fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
-  </style:style>
-  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties loext:contextual-spacing="false" fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:line-height-at-least="0.529cm" fo:text-align="justify" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none">
-    <style:tab-stops>
-     <style:tab-stop style:position="4.523cm"/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-   <style:text-properties fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
-  </style:style>
-  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties loext:contextual-spacing="false" fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:line-height-at-least="0.529cm" fo:text-align="justify" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none">
-    <style:tab-stops>
-     <style:tab-stop style:position="4.523cm"/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-   <style:text-properties fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
-  </style:style>
-  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:text-align="start" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" fo:break-before="column">
     <style:tab-stops>
      <style:tab-stop style:position="12.483cm"/>
     </style:tab-stops>
    </style:paragraph-properties>
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#dc0067" style:text-line-through-style="none" style:font-name="Roboto" fo:font-size="20pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-name-asian="SimSun" style:font-size-asian="20pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="20pt" style:language-complex="ar" style:country-complex="SA" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#dc0067" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Roboto" fo:font-size="20pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-name-asian="SimSun" style:font-size-asian="20pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="20pt" style:language-complex="ar" style:country-complex="SA" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
   </style:style>
-  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:text-align="start" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false">
     <style:tab-stops>
      <style:tab-stop style:position="4.523cm"/>
     </style:tab-stops>
    </style:paragraph-properties>
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#dc0067" style:text-line-through-style="none" style:font-name="Roboto" fo:font-size="12pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-name-asian="SimSun" style:font-size-asian="12pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="12pt" style:language-complex="ar" style:country-complex="SA" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#dc0067" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Roboto" fo:font-size="12pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-name-asian="SimSun" style:font-size-asian="12pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="12pt" style:language-complex="ar" style:country-complex="SA" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
   </style:style>
-  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
    <style:paragraph-properties fo:margin-left="0.474cm" fo:margin-right="0.587cm" fo:text-align="justify" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto">
     <style:tab-stops/>
    </style:paragraph-properties>
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#dc0067" style:text-line-through-style="none" style:font-name="Roboto" fo:font-size="12pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-name-asian="SimSun" style:font-size-asian="12pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="12pt" style:language-complex="ar" style:country-complex="SA" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#dc0067" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Roboto" fo:font-size="12pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-name-asian="SimSun" style:font-size-asian="12pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="12pt" style:language-complex="ar" style:country-complex="SA" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
   </style:style>
-  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
    <style:paragraph-properties fo:margin-left="0.474cm" fo:margin-right="0.587cm" fo:text-align="start" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" fo:break-before="column">
     <style:tab-stops/>
    </style:paragraph-properties>
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#dc0067" style:text-line-through-style="none" style:font-name="Roboto" fo:font-size="20pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-name-asian="SimSun" style:font-size-asian="20pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="20pt" style:language-complex="ar" style:country-complex="SA" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#dc0067" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Roboto" fo:font-size="20pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-name-asian="SimSun" style:font-size-asian="20pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="20pt" style:language-complex="ar" style:country-complex="SA" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
   </style:style>
-  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
    <style:paragraph-properties fo:margin-left="0.362cm" fo:margin-right="0cm" fo:text-align="justify" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" fo:break-before="column">
     <style:tab-stops/>
    </style:paragraph-properties>
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#dc0067" style:text-line-through-style="none" style:font-name="Roboto" fo:font-size="12pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-name-asian="SimSun" style:font-size-asian="12pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="12pt" style:language-complex="ar" style:country-complex="SA" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#dc0067" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Roboto" fo:font-size="12pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-name-asian="SimSun" style:font-size-asian="12pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="12pt" style:language-complex="ar" style:country-complex="SA" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
   </style:style>
-  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-left="0.362cm" fo:margin-right="0cm" fo:text-align="start" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false">
     <style:tab-stops>
      <style:tab-stop style:position="7.666cm"/>
@@ -617,95 +593,21 @@
    </style:paragraph-properties>
    <style:text-properties style:font-name="Roboto" fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
   </style:style>
-  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
    <style:paragraph-properties fo:margin-left="0.43cm" fo:margin-right="0.633cm" fo:text-align="start" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" fo:break-before="column">
     <style:tab-stops>
      <style:tab-stop style:position="7.666cm"/>
     </style:tab-stops>
    </style:paragraph-properties>
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#dc0067" style:text-line-through-style="none" style:font-name="Roboto" fo:font-size="20pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-name-asian="SimSun" style:font-size-asian="20pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="20pt" style:language-complex="ar" style:country-complex="SA" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#dc0067" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Roboto" fo:font-size="20pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-name-asian="SimSun" style:font-size-asian="20pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="20pt" style:language-complex="ar" style:country-complex="SA" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
   </style:style>
-  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0.499cm" fo:text-align="start" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false">
     <style:tab-stops>
      <style:tab-stop style:position="3.969cm"/>
     </style:tab-stops>
    </style:paragraph-properties>
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#00000a" style:text-line-through-style="none" style:font-name="Roboto" fo:font-size="8pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-name-asian="SimSun" style:font-size-asian="8pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="8pt" style:language-complex="ar" style:country-complex="SA" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
-  </style:style>
-  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
-   <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:text-align="start" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto">
-    <style:tab-stops/>
-   </style:paragraph-properties>
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#dc0067" style:text-line-through-style="none" style:font-name="Roboto" fo:font-size="12pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-name-asian="SimSun" style:font-size-asian="12pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="12pt" style:language-complex="ar" style:country-complex="SA" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
-  </style:style>
-  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:text-align="justify" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false">
-    <style:tab-stops/>
-   </style:paragraph-properties>
-   <style:text-properties fo:color="#00000a" style:font-name="Roboto" fo:font-size="10pt" fo:language="de" fo:country="DE" style:font-name-asian="SimSun" style:font-size-asian="10pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Calibri" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
-  </style:style>
-  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:text-align="justify" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false">
-    <style:tab-stops/>
-   </style:paragraph-properties>
-   <style:text-properties style:font-name="Roboto" fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
-  </style:style>
-  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:text-align="justify" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false">
-    <style:tab-stops>
-     <style:tab-stop style:position="2.117cm"/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-   <style:text-properties style:font-name="Roboto" fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
-  </style:style>
-  <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:text-align="justify" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false">
-    <style:tab-stops>
-     <style:tab-stop style:position="3.969cm"/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-   <style:text-properties style:font-name="Roboto" fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
-  </style:style>
-  <style:style style:name="P60" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:text-align="justify" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false">
-    <style:tab-stops>
-     <style:tab-stop style:position="2.117cm"/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#dc0067" style:text-line-through-style="none" style:font-name="Roboto" fo:font-size="12pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-name-asian="SimSun" style:font-size-asian="12pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="12pt" style:language-complex="ar" style:country-complex="SA" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
-  </style:style>
-  <style:style style:name="P61" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties loext:contextual-spacing="false" fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:line-height-at-least="0.529cm" fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none">
-    <style:tab-stops>
-     <style:tab-stop style:position="4.523cm"/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#00000a" style:font-name="Roboto" fo:font-size="10pt" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10pt" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
-  </style:style>
-  <style:style style:name="P62" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties loext:contextual-spacing="false" fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:line-height-at-least="0.529cm" fo:text-align="justify" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none">
-    <style:tab-stops>
-     <style:tab-stop style:position="4.523cm"/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#00000a" style:text-line-through-style="none" style:font-name="Roboto" fo:font-size="10pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-name-asian="SimSun" style:font-size-asian="10pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
-  </style:style>
-  <style:style style:name="P63" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties loext:contextual-spacing="false" fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:line-height-at-least="0.529cm" fo:text-align="justify" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none">
-    <style:tab-stops>
-     <style:tab-stop style:position="4.523cm"/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#dc0067" style:text-line-through-style="none" style:font-name="Roboto" fo:font-size="12pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-name-asian="SimSun" style:font-size-asian="12pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="12pt" style:language-complex="ar" style:country-complex="SA" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
-  </style:style>
-  <style:style style:name="P64" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0.499cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:line-height-at-least="0.529cm" fo:text-align="justify" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0cm" style:auto-text-indent="false" fo:padding="0cm" fo:border="none">
-    <style:tab-stops>
-     <style:tab-stop style:position="4.523cm"/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-   <style:text-properties fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#00000a" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Roboto" fo:font-size="8pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-name-asian="SimSun" style:font-size-asian="8pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="8pt" style:language-complex="ar" style:country-complex="SA" fo:hyphenate="true" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties style:font-name="Roboto"/>
@@ -720,19 +622,19 @@
    <style:text-properties style:font-name="Roboto" fo:font-size="10pt" fo:font-style="normal" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-size-complex="10pt" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T5" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#dc0067" style:text-line-through-style="none" style:font-name="Roboto" fo:font-size="12pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-name-asian="SimSun" style:font-size-asian="12pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="12pt" style:language-complex="ar" style:country-complex="SA"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#dc0067" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Roboto" fo:font-size="12pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-name-asian="SimSun" style:font-size-asian="12pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="12pt" style:language-complex="ar" style:country-complex="SA"/>
   </style:style>
   <style:style style:name="T6" style:family="text">
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#00000a" style:font-name="Roboto" fo:font-size="10pt" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10pt"/>
   </style:style>
   <style:style style:name="T7" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#00000a" style:text-line-through-style="none" style:font-name="Roboto" fo:font-size="10pt" fo:letter-spacing="normal" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10pt"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#00000a" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Roboto" fo:font-size="10pt" fo:letter-spacing="normal" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10pt"/>
   </style:style>
   <style:style style:name="T8" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#00000a" style:text-line-through-style="none" style:font-name="Roboto" fo:font-size="10pt" fo:letter-spacing="normal" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10pt" style:font-weight-complex="normal"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#00000a" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Roboto" fo:font-size="10pt" fo:letter-spacing="normal" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T9" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#00000a" style:text-line-through-style="none" style:font-name="Roboto" fo:font-size="10pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-name-asian="SimSun" style:font-size-asian="10pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#00000a" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Roboto" fo:font-size="10pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-name-asian="SimSun" style:font-size-asian="10pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA"/>
   </style:style>
   <style:style style:name="T10" style:family="text">
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#757575" style:font-name="Roboto" fo:font-size="10pt" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10pt"/>
@@ -741,19 +643,19 @@
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" style:font-name="Roboto1" fo:font-size="10pt" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
   </style:style>
   <style:style style:name="T12" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" style:text-line-through-style="none" style:font-name="Roboto" fo:font-size="10pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-name-asian="SimSun" style:font-size-asian="10pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Roboto" fo:font-size="10pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-name-asian="SimSun" style:font-size-asian="10pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA"/>
   </style:style>
   <style:style style:name="T13" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" style:text-line-through-style="none" style:font-name="Roboto" fo:font-size="10pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-name-asian="SimSun" style:font-size-asian="10pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Roboto" fo:font-size="10pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" fo:font-weight="normal" style:text-blinking="false" style:font-name-asian="SimSun" style:font-size-asian="10pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA"/>
   </style:style>
   <style:style style:name="T14" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" style:text-line-through-style="none" style:font-name="Roboto" fo:font-size="10pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" fo:font-weight="normal" style:text-blinking="false" style:font-name-asian="SimSun" style:font-size-asian="10pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Roboto" fo:font-size="10pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="normal" style:text-blinking="false" style:font-name-asian="SimSun" style:font-size-asian="10pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA"/>
   </style:style>
   <style:style style:name="T15" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" style:text-line-through-style="none" style:font-name="Roboto" fo:font-size="10pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="normal" style:text-blinking="false" style:font-name-asian="SimSun" style:font-size-asian="10pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Roboto1" fo:font-size="10pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-name-asian="SimSun" style:font-size-asian="10pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA"/>
   </style:style>
   <style:style style:name="T16" style:family="text">
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:text-line-through-style="none" style:font-name="Roboto" fo:font-size="10pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-name-asian="SimSun" style:font-size-asian="10pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Roboto" fo:font-size="10pt" fo:letter-spacing="normal" fo:language="de" fo:country="DE" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:text-blinking="false" style:font-name-asian="SimSun" style:font-size-asian="10pt" style:language-asian="en" style:country-asian="US" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA"/>
   </style:style>
   <style:style style:name="T17" style:family="text">
    <style:text-properties fo:color="#00000a" style:font-name="Roboto" fo:font-size="10pt" fo:language="de" fo:country="DE" style:font-name-asian="SimSun" style:font-size-asian="10pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Calibri" style:font-size-complex="10pt" style:language-complex="ar" style:country-complex="SA"/>
@@ -774,20 +676,25 @@
    <style:text-properties fo:color="#000000" style:text-underline-style="none"/>
   </style:style>
   <style:style style:name="T23" style:family="text">
-   <style:text-properties fo:color="#000000" style:text-underline-style="none"/>
+   <style:text-properties officeooo:rsid="0005354b"/>
+  </style:style>
+  <style:style style:name="T24" style:family="text">
+   <style:text-properties style:font-name="Roboto1"/>
+  </style:style>
+  <style:style style:name="T25" style:family="text">
+   <style:text-properties style:font-name="Roboto1" fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="T26" style:family="text">
+   <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
   </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Frame">
-   <style:graphic-properties style:run-through="foreground" style:wrap="none" style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" fo:background-color="#ffffff" style:background-transparency="0%" fo:padding="0.15cm" fo:border="0.06pt solid #000000">
-    <style:background-image/>
-   </style:graphic-properties>
+   <style:graphic-properties style:run-through="foreground" style:wrap="none" style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" fo:background-color="#ffffff" style:background-transparency="0%" draw:fill="solid" draw:fill-color="#ffffff" draw:opacity="100%" fo:padding="0.15cm" fo:border="0.06pt solid #000000"/>
   </style:style>
   <style:style style:name="fr2" style:family="graphic" style:parent-style-name="Graphics">
    <style:graphic-properties style:run-through="background" style:wrap="run-through" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="from-top" style:vertical-rel="page" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
   </style:style>
   <style:style style:name="fr3" style:family="graphic" style:parent-style-name="Graphics">
-   <style:graphic-properties style:run-through="background" style:wrap="run-through" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" fo:background-color="transparent" style:background-transparency="100%" style:shadow="none" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard">
-    <style:background-image/>
-   </style:graphic-properties>
+   <style:graphic-properties style:run-through="background" style:wrap="run-through" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" draw:fill="none" draw:fill-color="#ffffff" style:shadow="none" draw:shadow-opacity="100%" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
   </style:style>
   <style:style style:name="fr4" style:family="graphic" style:parent-style-name="Graphics">
    <style:graphic-properties style:horizontal-pos="center" style:horizontal-rel="paragraph" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
@@ -796,7 +703,7 @@
    <style:graphic-properties style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" style:mirror="none" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
   </style:style>
   <style:page-layout style:name="pm1">
-   <style:page-layout-properties fo:page-width="29.7cm" fo:page-height="21.001cm" style:num-format="1" style:print-orientation="landscape" fo:margin="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:margin-left="0cm" fo:margin-right="0cm" style:shadow="none" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="44" style:layout-grid-base-height="0.55cm" style:layout-grid-ruby-height="0cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="true" style:layout-grid-display="true" style:layout-grid-base-width="0.37cm" style:layout-grid-snap-to="true" style:layout-grid-snap-to-characters="true" style:footnote-max-height="0cm">
+   <style:page-layout-properties fo:page-width="29.7cm" fo:page-height="21.001cm" style:num-format="1" style:print-orientation="landscape" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:margin-left="0cm" fo:margin-right="0cm" style:shadow="none" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="44" style:layout-grid-base-height="0.55cm" style:layout-grid-ruby-height="0cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="true" style:layout-grid-display="true" style:layout-grid-base-width="0.37cm" style:layout-grid-snap-to="true" style:footnote-max-height="0cm">
     <style:columns fo:column-count="3" fo:column-gap="0cm">
      <style:column-sep style:width="0.009cm" style:color="#eeeeee" style:height="100%" style:style="solid"/>
      <style:column style:rel-width="21845*" fo:start-indent="0cm" fo:end-indent="0cm"/>
@@ -3812,26 +3719,26 @@
      </office:binary-data>
     </draw:image>
    </draw:frame>
-   <text:p text:style-name="P49"/>
-   <text:p text:style-name="P55">Freifunk ist</text:p>
-   <text:p text:style-name="P6">ein öffentliches, von Bürgern organisiertes, freies WLAN. Das Ziel ist es, eine umfangreiche Abdeckung zu erreichen, sodass überall freies WLAN zur Verfügung steht.</text:p>
-   <text:p text:style-name="P11"/>
-   <text:p text:style-name="P11">Wir verstehen frei als:</text:p>
-   <text:p text:style-name="P11"><text:s/>- nicht kommerziell und unzensiert</text:p>
-   <text:p text:style-name="P11"><text:s/>- im Besitz der Gemeinschaft und dezentral organisiert</text:p>
-   <text:p text:style-name="P28"><text:span text:style-name="T4"><text:s/>- öffen</text:span><text:span text:style-name="T18">tlich und </text:span><text:span text:style-name="T11">ohne Angabe von persönlichen Daten</text:span></text:p>
-   <text:p text:style-name="P28"><text:span text:style-name="T11"><text:s text:c="3"/></text:span><text:span text:style-name="T18">zugänglich</text:span></text:p>
-   <text:p text:style-name="P30"/>
-   <text:p text:style-name="P21">Privatpersonen</text:p>
-   <text:p text:style-name="P18"><text:span text:style-name="T2">können ihren Freunden und Gästen risikofrei und </text:span><text:span text:style-name="T3">ohne </text:span><text:span text:style-name="T2">Zugriffsmöglichkeit auf die eigenen Geräte Internet zur Verfügung stellen.</text:span></text:p>
-   <text:p text:style-name="P12"/>
-   <text:p text:style-name="P21">Gewerbetreibende und Firmen</text:p>
-   <text:p text:style-name="P56">können Ihren Kunden und Mitarbeitern einen Zugang zum Internet ermöglichen. Durch entsprechende Hardware ist eine Versorgung von großen Nutzergruppen möglich. Der Zugriff auf das eigene Netzwerk ist durch das WLAN nicht möglich.</text:p>
-   <text:p text:style-name="P12"/>
-   <text:p text:style-name="P21">Öffentliche Institutionen, Kirchen und Vereine </text:p>
-   <text:p text:style-name="P6">können für ihre Mitglieder z. B. auf Sportplätzen, Kirchplätzen, Dorfplätzen und an anderen öffentlichen Orten ein WLAN errichten.</text:p>
-   <text:p text:style-name="P6">Für Installationen im Freien gibt es wetterfeste Router, die auch große Bereiche und große Entfernungen ermöglichen.</text:p>
-   <text:p text:style-name="P4"><draw:frame draw:style-name="fr3" draw:name="Grafik4" text:anchor-type="paragraph" svg:x="-0.002cm" svg:y="0cm" svg:width="19.775cm" svg:height="21.001cm" draw:z-index="4"><draw:image>
+   <text:p text:style-name="P45"/>
+   <text:p text:style-name="P4">Freifunk ist</text:p>
+   <text:p text:style-name="P7">ein öffentliches, von Bürgern organisiertes, freies WLAN. Das Ziel ist es, eine umfangreiche Abdeckung zu erreichen, sodass überall freies WLAN zur Verfügung steht.</text:p>
+   <text:p text:style-name="P13"/>
+   <text:p text:style-name="P13">Wir verstehen frei als:</text:p>
+   <text:p text:style-name="P13"><text:s/>- nicht kommerziell und unzensiert</text:p>
+   <text:p text:style-name="P13"><text:s/>- im Besitz der Gemeinschaft und dezentral organisiert</text:p>
+   <text:p text:style-name="P31"><text:span text:style-name="T4"><text:s/>- öffen</text:span><text:span text:style-name="T18">tlich und </text:span><text:span text:style-name="T11">ohne Angabe von persönlichen Daten</text:span></text:p>
+   <text:p text:style-name="P31"><text:span text:style-name="T11"><text:s text:c="3"/></text:span><text:span text:style-name="T18">zugänglich</text:span></text:p>
+   <text:p text:style-name="P9"/>
+   <text:p text:style-name="P23">Privatpersonen</text:p>
+   <text:p text:style-name="P20"><text:span text:style-name="T2">können ihren Freunden und Gästen risikofrei und </text:span><text:span text:style-name="T3">ohne </text:span><text:span text:style-name="T2">Zugriffsmöglichkeit auf die eigenen Geräte Internet zur Verfügung stellen.</text:span></text:p>
+   <text:p text:style-name="P14"/>
+   <text:p text:style-name="P23">Gewerbetreibende und Firmen</text:p>
+   <text:p text:style-name="P33">können Ihren Kunden und Mitarbeitern einen Zugang zum Internet ermöglichen. Durch entsprechende Hardware ist eine Versorgung von großen Nutzergruppen möglich. Der Zugriff auf das eigene Netzwerk ist durch das WLAN nicht möglich.</text:p>
+   <text:p text:style-name="P14"/>
+   <text:p text:style-name="P23">Öffentliche Institutionen, Kirchen und Vereine </text:p>
+   <text:p text:style-name="P7">können für ihre Mitglieder z. B. auf Sportplätzen, Kirchplätzen, Dorfplätzen und an anderen öffentlichen Orten ein WLAN errichten.</text:p>
+   <text:p text:style-name="P7">Für Installationen im Freien gibt es wetterfeste Router, die auch große Bereiche und große Entfernungen ermöglichen.</text:p>
+   <text:p text:style-name="P5"><draw:frame draw:style-name="fr3" draw:name="Grafik4" text:anchor-type="paragraph" svg:x="-0.002cm" svg:y="0cm" svg:width="19.775cm" svg:height="21.001cm" draw:z-index="4"><draw:image>
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAn4AAAKsCAIAAAD9RCcTAABmNklEQVR4nOzdeXfayIL+cRwb
        bMDG++44S6d75pw5Z97/25h7Zu707950OnG8xcYL3sDG2L+nVd0aXRYhCakkwffzhw8hQhIg
        6qmSSlUzj4+PBQAAJtvU1FTfxz5eX1+1pP4GX7MxE3bnAAAYMwGztu+r3Nf2ZvCg1RK9AADE
@@ -4321,75 +4228,75 @@
       </office:binary-data>
      </draw:image>
     </draw:frame></text:p>
-   <text:p text:style-name="P22">Warum gerade Freifunk?</text:p>
-   <text:p text:style-name="P5">Mit Freifunk entsteht ein freies, unabhängiges und dezentral organisiertes Netzwerk.</text:p>
-   <text:p text:style-name="P5">Die Anschaffungs- und Betriebskosten verteilen sich auf mehrere Aufsteller oder Spender. Zudem sind diese Kosten durch die ehrenamtliche Tätigkeit erheblich geringer als bei kommerziellen Lösungen.</text:p>
-   <text:p text:style-name="P5">Ein Netz von Bürgern für Bürger. Es vernetzt, technisch als auch menschlich.</text:p>
-   <text:p text:style-name="P13"/>
-   <text:p text:style-name="P60">Muss ich Angst vor Abmahnungen haben?</text:p>
-   <text:p text:style-name="P5">Nein. Ein Router mit der Freifunk Münsterland Software leitet den Internetverkehr durch einen Tunnel (VPN) an die Freifunk-Server. Nur diese erscheinen nach außen, so dass der eigene Internetanschluss, an dem der Freifunk-Router steht, für andere nicht sichtbar ist.</text:p>
-   <text:p text:style-name="P5">Die Betreiber der Freifunkserver sind, wie kommerzielle Provider auch, von der sogenannten Störerhaftung ausgenommen.</text:p>
-   <text:p text:style-name="P13"/>
-   <text:p text:style-name="P22">Sind offene Netzwerke sicher für den Internetnutzer?</text:p>
-   <text:p text:style-name="P5">Der Zugriff über Freifunk Münsterland ist nicht unsicherer als über andere (kommerzielle) Anbieter auch.</text:p>
-   <text:p text:style-name="P5">Datenpakete können grundsätzlich an vielen Knotenpunkten im Internet mitgelesen werden.</text:p>
-   <text:p text:style-name="P5">Wir empfehlen daher immer, auch an Ihrem heimischen PC, die Nutzung von Ende-zu-Ende-Verschlüsselung (z. B. HTTPS). Selbst Onlinebanking kann somit sicher durchgeführt werden.</text:p>
-   <text:p text:style-name="P51"/>
-   <text:p text:style-name="P21">Wen suchen wir?</text:p>
-   <text:p text:style-name="P6">Privatpersonen, Gewerbetreibende, Firmen oder einfach jede/n die/der einen Router aufstellen kann und mit Strom und möglichst einem Internetanschluss versorgt.</text:p>
-   <text:p text:style-name="P6">Wir suchen Menschen, die sich am Netzausbau beteiligen wollen, die Idee weitertragen oder -entwickeln wollen.</text:p>
-   <text:p text:style-name="P6"/>
-   <text:p text:style-name="P21">Was verändert sich an meiner bestehenden Installation?</text:p>
-   <text:p text:style-name="P6">Nichts. Es wird lediglich einer oder, wenn gewünscht bzw. ortsbedingt nötig, werden mehrere zusätzliche Router mit der Freifunk-Software angeschlossen.</text:p>
-   <text:p text:style-name="P12"/>
-   <text:p text:style-name="P21">Kann man auf mein Netzwerk und meine Rechner zugreifen?</text:p>
-   <text:p text:style-name="P6">Nein. Ein Zugriff über das Freifunk-WLAN ist nicht möglich, da der komplette Datenverkehr direkt in den Tunnel zu unseren Servern geleitet wird. Das Freifunk- und das eigene Netz sind komplett getrennt.</text:p>
-   <text:p text:style-name="P6"/>
-   <text:p text:style-name="P21">Wie gut ist die Verfügbarkeit und die Geschwindigkeit?</text:p>
-   <text:p text:style-name="P18"><text:span text:style-name="T2">Je m</text:span><text:span text:style-name="T19">ehr mitmachen, </text:span><text:span text:style-name="T11">desto größer wird die Reichweite und umso ausfallsicherer</text:span><text:span text:style-name="T19"> wird das Freifunknetz</text:span><text:span text:style-name="T2">.</text:span></text:p>
-   <text:p text:style-name="P6">Abhängig von den geteilten Internetanschlüssen und der eingesetzten Hardware ist das WLAN entsprechend schnell.­</text:p>
-   <text:p text:style-name="P52"/>
-   <text:p text:style-name="P50"><text:soft-page-break/></text:p>
-   <text:p text:style-name="P23">Digitales Glas Wasser </text:p>
-   <text:p text:style-name="P26"/>
-   <text:p text:style-name="P7">Beim Freifunk schließen sich Menschen zusammen, um ein nicht-kommerzielles Netz mit Hilfe von WLAN-Routern aufzubauen.</text:p>
+   <text:p text:style-name="P24">Warum gerade Freifunk?</text:p>
+   <text:p text:style-name="P6">Mit Freifunk entsteht ein freies, unabhängiges und dezentral organisiertes Netzwerk.</text:p>
+   <text:p text:style-name="P6">Die Anschaffungs- und Betriebskosten verteilen sich auf mehrere Aufsteller oder Spender. Zudem sind diese Kosten durch die ehrenamtliche Tätigkeit erheblich geringer als bei kommerziellen Lösungen.</text:p>
+   <text:p text:style-name="P6">Ein Netz von Bürgern für Bürger. Es vernetzt, technisch als auch menschlich.</text:p>
+   <text:p text:style-name="P15"/>
+   <text:p text:style-name="P25">Muss ich Angst vor Abmahnungen haben?</text:p>
+   <text:p text:style-name="P6">Nein. Ein Router mit der Freifunk Münsterland Software leitet den Internetverkehr durch einen Tunnel (VPN) an die Freifunk-Server. Nur diese erscheinen nach außen, so dass der eigene Internetanschluss, an dem der Freifunk-Router steht, für andere nicht sichtbar ist.</text:p>
+   <text:p text:style-name="P6">Die Betreiber der Freifunkserver sind, wie kommerzielle Provider auch, von der sogenannten Störerhaftung ausgenommen.</text:p>
+   <text:p text:style-name="P15"/>
+   <text:p text:style-name="P24">Sind offene Netzwerke sicher für den Internetnutzer?</text:p>
+   <text:p text:style-name="P6">Der Zugriff über Freifunk Münsterland ist nicht unsicherer als über andere (kommerzielle) Anbieter auch.</text:p>
+   <text:p text:style-name="P6">Datenpakete können grundsätzlich an vielen Knotenpunkten im Internet mitgelesen werden.</text:p>
+   <text:p text:style-name="P6">Wir empfehlen daher immer, auch an Ihrem heimischen PC, die Nutzung von Ende-zu-Ende-Verschlüsselung (z. B. HTTPS). Selbst Onlinebanking kann somit sicher durchgeführt werden.</text:p>
+   <text:p text:style-name="P47"/>
+   <text:p text:style-name="P23">Wen suchen wir?</text:p>
+   <text:p text:style-name="P7">Privatpersonen, Gewerbetreibende, Firmen oder einfach jede/n die/der einen Router aufstellen kann und mit Strom und möglichst einem Internetanschluss versorgt.</text:p>
+   <text:p text:style-name="P7">Wir suchen Menschen, die sich am Netzausbau beteiligen wollen, die Idee weitertragen oder -entwickeln wollen.</text:p>
    <text:p text:style-name="P7"/>
-   <text:p text:style-name="P7">Der eigene Internetzugang wird mit anderen risikofrei geteilt.</text:p>
-   <text:p text:style-name="P7">Freifunkrouter vernetzen sich untereinander, sodass ein Maschennetz entsteht, welches von mehreren Anschlüssen ans Internet angebunden ist.</text:p>
-   <text:p text:style-name="P7">So entsteht ein Gemeinschaftsnetz, das von allen kostenfrei genutzt werden kann.</text:p>
+   <text:p text:style-name="P23">Was verändert sich an meiner bestehenden Installation?</text:p>
+   <text:p text:style-name="P7">Nichts. Es wird lediglich einer oder, wenn gewünscht bzw. ortsbedingt nötig, werden mehrere zusätzliche Router mit der Freifunk-Software angeschlossen.</text:p>
+   <text:p text:style-name="P14"/>
+   <text:p text:style-name="P23">Kann man auf mein Netzwerk und meine Rechner zugreifen?</text:p>
+   <text:p text:style-name="P7">Nein. Ein Zugriff über das Freifunk-WLAN ist nicht möglich, da der komplette Datenverkehr direkt in den Tunnel zu unseren Servern geleitet wird. Das Freifunk- und das eigene Netz sind komplett getrennt.</text:p>
    <text:p text:style-name="P7"/>
-   <text:p text:style-name="P7">Freifunk ersetzt nicht den Breitbandausbau, sondern ist eine Ergänzung dazu.</text:p>
-   <text:p text:style-name="P7">Es entlastet das kommerzielle Mobilfunknetz und nutzt vorhandene Ressourcen aus. </text:p>
-   <text:p text:style-name="P7"/>
-   <text:p text:style-name="P7">Freies WLAN ermöglicht Gästen und Mitbürgern ohne Internetzugang (z. B. Menschen ohne Einkommen, Flüchtlingen oder Touristen) unkompliziert einen Zugang zum Internet und somit zu Bildung und Wissen oder auch Kontakt zu Freunden und Familie.</text:p>
-   <text:p text:style-name="P7"/>
-   <text:p text:style-name="P7">Wir freuen uns, wenn bald auch bei Ihnen ein offenes, aber vor allem auch freies WLAN zur Verfügung steht. Ihre Mitmenschen übrigens auch.</text:p>
-   <text:p text:style-name="P7"/>
-   <text:p text:style-name="P7">Offene Fragen beantworten wir gerne. Schreiben Sie uns oder treten Sie persönlich mit uns in Kontakt.</text:p>
-   <text:p text:style-name="P19"/>
-   <text:p text:style-name="P7"/>
-   <text:p text:style-name="P7">Team Freifunk Münsterland</text:p>
-   <text:p text:style-name="P53"/>
-   <text:p text:style-name="P24">Freifunk Münsterland</text:p>
+   <text:p text:style-name="P23">Wie gut ist die Verfügbarkeit und die Geschwindigkeit?</text:p>
+   <text:p text:style-name="P20"><text:span text:style-name="T2">Je m</text:span><text:span text:style-name="T19">ehr mitmachen, </text:span><text:span text:style-name="T11">desto größer wird die Reichweite und umso ausfallsicherer</text:span><text:span text:style-name="T19"> wird das Freifunknetz</text:span><text:span text:style-name="T2">.</text:span></text:p>
+   <text:p text:style-name="P7">Abhängig von den geteilten Internetanschlüssen und der eingesetzten Hardware ist das WLAN entsprechend schnell.­</text:p>
+   <text:p text:style-name="P48"/>
+   <text:p text:style-name="P46"><text:soft-page-break/></text:p>
+   <text:p text:style-name="P26">Digitales Glas Wasser </text:p>
+   <text:p text:style-name="P29"/>
+   <text:p text:style-name="P8">Beim Freifunk schließen sich Menschen zusammen, um ein nicht-kommerzielles Netz mit Hilfe von WLAN-Routern aufzubauen.</text:p>
    <text:p text:style-name="P8"/>
-   <text:p text:style-name="P8">www.freifunk-muensterland.de</text:p>
-   <text:p text:style-name="P8">info@freifunk-muensterland.de</text:p>
+   <text:p text:style-name="P8">Der eigene Internetzugang wird mit anderen risikofrei geteilt.</text:p>
+   <text:p text:style-name="P8">Freifunkrouter vernetzen sich untereinander, sodass ein Maschennetz entsteht, welches von mehreren Anschlüssen ans Internet angebunden ist.</text:p>
+   <text:p text:style-name="P8">So entsteht ein Gemeinschaftsnetz, das von allen kostenfrei genutzt werden kann.</text:p>
    <text:p text:style-name="P8"/>
-   <text:p text:style-name="P31">Freifunk wird unterstützt von:</text:p>
-   <text:p text:style-name="P32"><text:span text:style-name="T8">warpzone</text:span><text:span text:style-name="T7"> e. V.</text:span></text:p>
-   <text:p text:style-name="P32"><text:span text:style-name="T7">Förderverein freie Infrastruktur e. V. </text:span><text:span text:style-name="T6"><text:line-break/></text:span></text:p>
-   <text:p text:style-name="P38"><text:span text:style-name="T5">Treffen</text:span><text:span text:style-name="T10"><text:line-break/></text:span><text:span text:style-name="T6">jeden Mittwoch ab 19:00 Uhr</text:span></text:p>
-   <text:p text:style-name="P35">warpzone e. V., Am Hawerkamp 31, Haus G, 48155 Münster, im obersten Stockwerk (nicht barrierefrei)</text:p>
-   <text:p text:style-name="P35">Telefon: 0251/70090013</text:p>
-   <text:p text:style-name="P33"/>
-   <text:p text:style-name="P33">Freifunk Gruppen im Münsterland</text:p>
-   <text:p text:style-name="P43"><text:span text:style-name="T7">Freifunk ist dezentral in lokalen Gruppen, den sogenannten „Communities“, organisiert.</text:span><text:span text:style-name="T5"> </text:span><text:span text:style-name="T9">Eine aktuelle Liste aller Communities mit lokalen Kontaktmöglichkeiten befindet sich auf unserer Internetseite.</text:span></text:p>
-   <text:p text:style-name="P64"><text:span text:style-name="T12">https://</text:span>www.freifunk-muensterland.de/communities</text:p>
-   <text:p text:style-name="P43"/>
-   <text:p text:style-name="P63">Social Media</text:p>
-   <text:p text:style-name="P62">Sie finden die einzelnen Communities auch im Freifunk-Forum (https://forum.freifunk-muensterland.de), bei Facebook und Twitter.</text:p>
-   <text:p text:style-name="P48">Lokaler Ansprechpartner</text:p>
-   <text:p text:style-name="P54"><draw:frame draw:style-name="fr1" draw:name="Rahmen1" text:anchor-type="char" svg:x="0.515cm" svg:y="0.134cm" svg:width="8.936cm" svg:height="4.045cm" draw:z-index="0">
+   <text:p text:style-name="P8">Freifunk ersetzt nicht den Breitbandausbau, sondern ist eine Ergänzung dazu.</text:p>
+   <text:p text:style-name="P8">Es entlastet das kommerzielle Mobilfunknetz und nutzt vorhandene Ressourcen aus. </text:p>
+   <text:p text:style-name="P8"/>
+   <text:p text:style-name="P8">Freies WLAN ermöglicht Gästen und Mitbürgern ohne Internetzugang (z. B. Menschen ohne Einkommen, Flüchtlingen oder Touristen) unkompliziert einen Zugang zum Internet und somit zu Bildung und Wissen oder auch Kontakt zu Freunden und Familie.</text:p>
+   <text:p text:style-name="P8"/>
+   <text:p text:style-name="P8">Wir freuen uns, wenn bald auch bei Ihnen ein offenes, aber vor allem auch freies WLAN zur Verfügung steht. Ihre Mitmenschen übrigens auch.</text:p>
+   <text:p text:style-name="P8"/>
+   <text:p text:style-name="P8">Offene Fragen beantworten wir gerne. Schreiben Sie uns oder treten Sie persönlich mit uns in Kontakt.</text:p>
+   <text:p text:style-name="P21"/>
+   <text:p text:style-name="P8"/>
+   <text:p text:style-name="P8">Team Freifunk Münsterland</text:p>
+   <text:p text:style-name="P49"/>
+   <text:p text:style-name="P27">Freifunk Münsterland</text:p>
+   <text:p text:style-name="P10"/>
+   <text:p text:style-name="P10"><text:span text:style-name="T23">http://</text:span>freifunk-muensterland.de</text:p>
+   <text:p text:style-name="P10">info@freifunk-muensterland.de</text:p>
+   <text:p text:style-name="P10"/>
+   <text:p text:style-name="P34">Freifunk wird unterstützt von:</text:p>
+   <text:p text:style-name="P35"><text:span text:style-name="T8">warpzone</text:span><text:span text:style-name="T7"> e.V.</text:span></text:p>
+   <text:p text:style-name="P35"><text:span text:style-name="T7">Förderverein freie Infrastruktur e.V. </text:span><text:span text:style-name="T6"><text:line-break/></text:span></text:p>
+   <text:p text:style-name="P41"><text:span text:style-name="T5">Treffen</text:span><text:span text:style-name="T10"><text:line-break/></text:span><text:span text:style-name="T6">jeden Mittwoch ab 19:00 Uhr</text:span></text:p>
+   <text:p text:style-name="P38">warpzone e. V., Am Hawerkamp 31, Haus G, 48155 Münster, im obersten Stockwerk (nicht barrierefrei)</text:p>
+   <text:p text:style-name="P38">Telefon: 0251/70090013</text:p>
+   <text:p text:style-name="P36"/>
+   <text:p text:style-name="P36">Freifunk Gruppen im Münsterland</text:p>
+   <text:p text:style-name="P42"><text:span text:style-name="T7">Freifunk ist dezentral in lokalen Gruppen, den sogenannten „Communities“, organisiert.</text:span><text:span text:style-name="T5"> </text:span><text:span text:style-name="T9">Eine aktuelle Liste aller Communities mit lokalen Kontaktmöglichkeiten befindet sich auf unserer Internetseite.</text:span></text:p>
+   <text:p text:style-name="P42"><text:span text:style-name="T15">https://</text:span><text:span text:style-name="T19">freifunk-muensterland.de/communities</text:span></text:p>
+   <text:p text:style-name="P42"/>
+   <text:p text:style-name="P37">Social Media</text:p>
+   <text:p text:style-name="P40">Sie finden die einzelnen Communities auch im Freifunk-Forum (https://forum.freifunk-muensterland.de), bei Facebook und Twitter.</text:p>
+   <text:p text:style-name="P44">Lokaler Ansprechpartner</text:p>
+   <text:p text:style-name="P50"><draw:frame draw:style-name="fr1" draw:name="Rahmen1" text:anchor-type="char" svg:x="0.515cm" svg:y="0.134cm" svg:width="8.936cm" svg:height="4.045cm" draw:z-index="0">
      <draw:text-box>
       <text:p text:style-name="P1"/>
       <text:p text:style-name="P1"/>
@@ -4402,8 +4309,8 @@
       <text:p text:style-name="P1"/>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:p text:style-name="P47"/>
-   <text:p text:style-name="P25"><draw:frame draw:style-name="fr4" draw:name="Grafik1" text:anchor-type="paragraph" svg:width="3.979cm" svg:height="2.85cm" draw:z-index="3"><draw:image>
+   <text:p text:style-name="P43"/>
+   <text:p text:style-name="P28"><draw:frame draw:style-name="fr4" draw:name="Grafik1" text:anchor-type="paragraph" svg:width="3.979cm" svg:height="2.85cm" draw:z-index="3"><draw:image>
       <office:binary-data>PHN2ZyB3aWR0aD0iMTQwIiBoZWlnaHQ9IjEwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3Jn
        LzIwMDAvc3ZnIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJub25lIj4NCiA8bWV0YWRhdGEgaWQ9
        Im1ldGFkYXRhNTAiPmltYWdlL3N2Zyt4bWw8L21ldGFkYXRhPg0KIDwhLS0gRGVzaWduZWQg
@@ -4453,20 +4360,20 @@
      </draw:image>
      <svg:title>Layer 1</svg:title>
     </draw:frame></text:p>
-   <text:p text:style-name="P25"/>
-   <text:p text:style-name="P25"/>
-   <text:p text:style-name="P25"/>
-   <text:p text:style-name="P25"/>
-   <text:p text:style-name="P25">Freifunk Münsterland</text:p>
-   <text:p text:style-name="P14"/>
-   <text:p text:style-name="P14">Ein freies, offenes und ohne Anmeldung</text:p>
-   <text:p text:style-name="P14">nutzbares WLAN für das Münsterland!</text:p>
-   <text:p text:style-name="P15"/>
+   <text:p text:style-name="P28"/>
+   <text:p text:style-name="P28"/>
+   <text:p text:style-name="P28"/>
+   <text:p text:style-name="P28"/>
+   <text:p text:style-name="P28">Freifunk Münsterland</text:p>
    <text:p text:style-name="P16"/>
-   <text:p text:style-name="P25">Mach mit!</text:p>
-   <text:p text:style-name="P27"/>
-   <text:p text:style-name="P27"/>
-   <text:p text:style-name="P20"><draw:frame draw:style-name="fr5" draw:name="Grafik2" text:anchor-type="paragraph" svg:x="-0.032cm" svg:y="3.718cm" svg:width="9.88cm" svg:height="5.45cm" draw:z-index="1"><draw:image>
+   <text:p text:style-name="P16">Ein freies, offenes und ohne Anmeldung</text:p>
+   <text:p text:style-name="P16">nutzbares WLAN für das Münsterland!</text:p>
+   <text:p text:style-name="P17"/>
+   <text:p text:style-name="P18"/>
+   <text:p text:style-name="P28">Mach mit!</text:p>
+   <text:p text:style-name="P30"/>
+   <text:p text:style-name="P30"/>
+   <text:p text:style-name="P22"><draw:frame draw:style-name="fr5" draw:name="Grafik2" text:anchor-type="paragraph" svg:x="-0.032cm" svg:y="3.718cm" svg:width="9.88cm" svg:height="5.45cm" draw:z-index="1"><draw:image>
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAB88AAARxCAIAAAAgV1GdAAJrjElEQVR4nOzdCXzjdZ3/8V/u
        O03Tpve0M+20nRlgOAURRVgVBY8V7/X6e7sgoOh6rLteuOvqeuEKKKJ44rqLx4qoK+KicgjK
        JTB0et9n2tz38fv9f5PfMjvOpJ1Ok/x+Sfp6PvrIZPL7Nb9Pkl+S5v375vM1SpIkAAAAAAAA
