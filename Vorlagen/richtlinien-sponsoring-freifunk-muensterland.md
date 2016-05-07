@@ -14,7 +14,7 @@ Dabei geht es nicht nur um das reine Aufstellen von Routern, sondern zu Freifunk
 Information der Nutzer, Beteiligten und Interessenten, sowie Richtfunk und Serverinfrastrukturen. 
 Zu unserer Freude erhalten wir dabei auch Angebote von Unternehmen, Freifunk zu unterstützen - was wir sehr begrüßen. Diese Unterstützung kann unter anderem durch [Sponsoring](https://de.wikipedia.org/wiki/Sponsoring) geschehen. 
 
-Das Freifunk Selbstverständnis "Wir verstehen frei als öffentlich zugänglich, nicht kommerziell, im Besitz der Gemeinschaft und unzensiert" zusammen mit der Tatsache das viele Aktive große Mengen Zeit und auch Geld in Freifunk investieren führt dazu das Assoziation mit größeren Strukturen in der Gemeinschaft nicht ablehnend aber durchaus kritisch und aufmerksam betrachtet wird.
+Das Freifunk Selbstverständnis "Wir verstehen frei als öffentlich zugänglich, nicht kommerziell, im Besitz der Gemeinschaft und unzensiert" zusammen mit der Tatsache das viele Aktive große Mengen Zeit und auch Geld in Freifunk investieren führt dazu das Assoziation mit größeren Strukturen in der Gemeinschaft nicht ablehnend aber durchaus kritisch und aufmerksam betrachtet wird. Freifunk ist primär keine Werbeplattform.
 
 Die folgenden Leitlinien sollen konkrete Hinweise geben welche Formen des Sponsoring gut und hilfreich sind oder welche aus unserer Sicht nicht akzeptabel sind.
 
