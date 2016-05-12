@@ -1,5 +1,5 @@
 Freifunk Münster ist
-ein öffentliches, von Bürgern organisiertes, freies WLAN. 
+ein öffentliches, von Bürgern organisiertes, freies WLAN.   
 Unser Ziel ist es, eine umfangreiche Abdeckung zu erreichen, sodass überall freies WLAN zur Verfügung steht.
 Wir verstehen frei als:
  - nicht kommerziell und unzensiert
