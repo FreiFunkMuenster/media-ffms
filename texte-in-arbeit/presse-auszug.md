@@ -1,5 +1,6 @@
 Freifunk ist
-ein öffentliches, von Bürgern organisiertes, freies WLAN. Das Ziel ist es, eine umfangreiche Abdeckung zu erreichen, sodass überall freies WLAN zur Verfügung steht.
+ein öffentliches, von Bürgern organisiertes, freies WLAN. 
+Unser Ziel ist es, eine umfangreiche Abdeckung zu erreichen, sodass überall freies WLAN zur Verfügung steht.
 Wir verstehen frei als:
  - nicht kommerziell und unzensiert
  - im Besitz der Gemeinschaft und dezentral organisiert
@@ -8,8 +9,7 @@ Wir verstehen frei als:
    
   
 Beim Freifunk schließen sich Menschen zusammen, um ein nicht-kommerzielles Netz mit Hilfe von WLAN-Routern aufzubauen.
-Der eigene Internetzugang wird mit anderen risikofrei geteilt. 
-Freifunkrouter vernetzen sich untereinander, sodass ein Maschennetz entsteht, welches von mehreren Anschlüssen ans Internet angebunden ist.
+Der eigene Internetzugang wird mit anderen risikofrei geteilt. Freifunkrouter vernetzen sich untereinander, sodass ein Maschennetz entsteht, welches von mehreren Anschlüssen ans Internet angebunden ist.
 So entsteht ein Gemeinschaftsnetz, das von allen kostenfrei genutzt werden kann.
 
 Freifunk ersetzt nicht den Breitbandausbau, sondern ist eine Ergänzung dazu. Es entlastet das kommerzielle Mobilfunknetz und nutzt vorhandene Ressourcen aus. 
