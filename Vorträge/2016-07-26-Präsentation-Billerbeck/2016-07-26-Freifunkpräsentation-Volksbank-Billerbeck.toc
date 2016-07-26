@@ -1,0 +1,9 @@
+\beamer@endinputifotherversion {3.24pt}
+\beamer@sectionintoc {1}{Ziele von Freifunk}{3}{0}{1}
+\beamer@sectionintoc {2}{Technische Abwicklung}{6}{0}{2}
+\beamer@subsectionintoc {2}{1}{St\IeC {\"o}rerhaftung}{13}{0}{2}
+\beamer@sectionintoc {3}{Wie kann ich mitmachen?}{16}{0}{3}
+\beamer@subsectionintoc {3}{1}{Privatperson / Gesch\IeC {\"a}ftsinhaber}{18}{0}{3}
+\beamer@subsectionintoc {3}{2}{Werbegemeinschaften und Banken als Sponsoren}{22}{0}{3}
+\beamer@subsectionintoc {3}{3}{Gemeinden}{24}{0}{3}
+\beamer@sectionintoc {4}{Kosten}{26}{0}{4}
